@@ -1,2 +1,2 @@
-# Toolkit_wiki.github.io
+# Toolkit Wiki
 Test for Toolkit Wiki
