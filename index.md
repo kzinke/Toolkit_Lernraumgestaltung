@@ -1,3 +1,10 @@
+# Learning Spcae Toolkit
+
+This is a test site running to put content of the German Learning Space Toolkit.
+
+Based on a translation of the Learning Space Toolkit (https://learningspacetoolkit.org/)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kzinke/Toolkit_wiki.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
