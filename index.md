@@ -25,8 +25,6 @@ Insbesondere schlagen wir vor:
 - Wir müssen für eine Vielfalt didaktischer Ansätze entwerfen und dabei die stark vorherrschende Tendenz hin zu einem sozio-konstruktivistischen Ansatz  beachten, die partizipatorische und kollaborative Aktivitäten betont, wo immer diese möglich sind. 
 - Wir müssen über den gesamten Campus als Lernort nachdenken und den nahtlosen Übergang verschiedener Arten von Lernaktivitäten sowie die gesamte Bandbreite des Angebots berücksichtigen. 
 
-
-
 ### 1.1 Lernen "konstruieren"
 
 ### 1.2 Ein prinzipiengeleiteter Ansatz
