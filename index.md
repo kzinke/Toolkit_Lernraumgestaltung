@@ -1,4 +1,4 @@
-# Learning Space Toolkit – Toolkit für Lernraumgestaltung 
+# Learning Space Toolkit 
 
 ### Über dieses Toolkit
 
@@ -12,44 +12,22 @@ Das komplette Dokument des Toolkits ist als OER veröffentlicht (https://www.oer
 
 ## 1. Eine neue Pädagogik schaffen
 
+**In Kürze**
+- wir betrachten die Art und Weise in der die Gestaltung des physischen Raums das Lernen im Raum beeinflusst
+- wir identifizieren aktuelle Trends in Lern- und Lehrpraxis
+- wir betrachten die Notwendigkeit einer Reihe von Leitprinzipien für die Gestaltung von Lernräumen
+
+**Erwartungen an die Lektüre dieses Abschnitts** 
+Viele Experten, die mit der Gestaltung und dem Aufbau von Lernräumen zu tun haben, haben selbst weder einen Hintergrund von Lehr- und Lernpraxis noch stehen sie in direktem Kontakt mit Endnutzer und Stakeholdern. Das hat zur Folge, dass wir zu oft verbesserte Versionen von dem bauen, was wir schon haben, anstatt die Annahmen unter denen Lernräume entworfen werden tiefergehend in Frage zu stellen. Sogar Lehrende sind sich möglicherweise nicht in vollem Umfang der Auswirkungen bewusst wie die gebaute Umwelt die Art der Aktivitäten beschränkt, die stattfinden können. Das Ziel dieses Abschnitts ist deshalb, einen kurzen Überblick zu geben, was allgemein als „Good Practice“ im Bereich des Lernens und Lehrens angesehen wird und diejenigen, die sich mit der Gestaltung von Lernräumen beschäftigen, einzuladen schon in einem sehr frühen Stadium darüber nachzudenken, welche Art von Lern- und Lehrerlebnis sie für die Zukunft schaffen wollen. 
+
+Insbesondere schlagen wir vor: 
+- Designentscheidungen sollten durch eine Reihe didaktischer Prinzipien geleitet sein. Diese Prinzipien klar und einfach zu formulieren wird den Dialog und das Verständnis zwischen verschiedenen, an einem Lernraumprojekt beteiligten Akteuren fördern. 
+- Wir müssen für eine Vielfalt didaktischer Ansätze entwerfen und dabei die stark vorherrschende Tendenz hin zu einem sozio-konstruktivistischen Ansatz  beachten, die partizipatorische und kollaborative Aktivitäten betont, wo immer diese möglich sind. 
+- Wir müssen über den gesamten Campus als Lernort nachdenken und den nahtlosen Übergang verschiedener Arten von Lernaktivitäten sowie die gesamte Bandbreite des Angebots berücksichtigen. 
+
+
+
 ### 1.1 Lernen "konstruieren"
 
 ### 1.2 Ein prinzipiengeleiteter Ansatz
 
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/kzinke/Toolkit_wiki.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kzinke/Toolkit_wiki.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
