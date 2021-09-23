@@ -1,9 +1,20 @@
-# Learning Spcae Toolkit
+# Learning Space Toolkit – Toolkit für Lernraumgestaltung 
 
-This is a test site running to put content of the German Learning Space Toolkit.
+### Über dieses Toolkit
 
-Based on a translation of the Learning Space Toolkit (https://learningspacetoolkit.org/)
+Übersetzung/Zusammenstellung von [UK Higher Education Toolkit](https://www.ucisa.ac.uk/learningspace)  & [Learning Space Toolkit US](https://learningspacetoolkit.org)
 
+Autorin: Dr. Katharina Zinke
+
+Erarbeitet im Rahmen des Projektes „Learning Space Toolkit: Best Practice Kreativräume entwickeln und evaluieren“ (Universitätsbibliothek Tübingen) innerhalb des Förderprogramms des Landes Baden-Württemberg „Wissenschaftliche Bibliotheken gestalten den digitalen Wandel (BW-Big diWa)“
+
+Das komplette Dokument des Toolkits ist als OER veröffentlicht (https://www.oerbw.de/faq.html) und steht auch hier direkt zum Download bereit [Test PDF](https://github.com/kzinke/Toolkit_wiki/files/7216515/Integration-Blueprint-Example.pdf)
+
+## 1. Eine neue Pädagogik schaffen
+
+### 1.1 Lernen "konstruieren"
+
+### 1.2 Ein prinzipiengeleiteter Ansatz
 
 ## Welcome to GitHub Pages
 
