@@ -31,4 +31,4 @@ Insbesondere schlagen wir vor:
 
 ### 1.2 Ein prinzipiengeleiteter Ansatz
 
-![Frosch](https://github.com/kzinke/Toolkit_wiki/blob/5608f45695b78d23d804182585460bbff1e80c51/frog.jpg)
+![Bild](https://github.com/kzinke/Toolkit_wiki/blob/5608f45695b78d23d804182585460bbff1e80c51/frog.jpg)
