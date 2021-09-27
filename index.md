@@ -8,7 +8,7 @@ Autorin: Dr. Katharina Zinke
 
 Erarbeitet im Rahmen des Projektes „Learning Space Toolkit: Best Practice Kreativräume entwickeln und evaluieren“ (Universitätsbibliothek Tübingen) innerhalb des Förderprogramms des Landes Baden-Württemberg „Wissenschaftliche Bibliotheken gestalten den digitalen Wandel (BW-Big diWa)“
 
-Das komplette Dokument des Toolkits ist als OER veröffentlicht (https://www.oerbw.de/faq.html) und steht auch hier direkt zum Download bereit [Test PDF](https://github.com/kzinke/Toolkit_wiki/files/7216515/Integration-Blueprint-Example.pdf)
+Das komplette Dokument des Toolkits ist als OER veröffentlicht [https://www.oerbw.de/faq.html](https://www.oerbw.de/faq.html) und steht auch hier direkt zum Download bereit [Test PDF](https://github.com/kzinke/Toolkit_wiki/files/7216515/Integration-Blueprint-Example.pdf)
 
 ***
 
