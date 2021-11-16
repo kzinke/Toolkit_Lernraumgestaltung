@@ -6,7 +6,14 @@ description: "Das Toolkit für Lernraumgestaltung soll gesammelte Informationen 
 permalink: /
 ---
 
-# Leräume gestalten leicht gemacht
+# Lernäume gestalten leicht gemacht
+{: .no_toc } # skipts page name heading from the TOC
+
+## Übersicht
+{: .no_toc .text-delta }
+
+1. TOC 
+{:toc}
 
 ### Über dieses Toolkit
 
