@@ -9,12 +9,6 @@ permalink: /
 # Lernäume gestalten leicht gemacht
 {: .no_toc }
 
-## Übersicht
-{: .no_toc .text-delta }
-
-- TOC  
-{:toc}
-
 <details open markdown="block">
   <summary>
     Übersicht
