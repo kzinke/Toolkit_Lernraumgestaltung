@@ -7,12 +7,12 @@ permalink: /
 ---
 
 # Lernäume gestalten leicht gemacht
-{: .no_toc } # skipts page name heading from the TOC
+{: .no_toc }
 
 ## Übersicht
 {: .no_toc .text-delta }
 
-1. TOC 
+- TOC  
 {:toc}
 
 ### Über dieses Toolkit
