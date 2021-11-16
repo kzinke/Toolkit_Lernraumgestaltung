@@ -15,6 +15,16 @@ permalink: /
 - TOC  
 {:toc}
 
+<details open markdown="block">
+  <summary>
+    Übersicht
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
+
 ### Über dieses Toolkit
 
 Übersetzung/Zusammenstellung von [UK Higher Education Toolkit](https://www.ucisa.ac.uk/learningspace)  & [Learning Space Toolkit US](https://learningspacetoolkit.org)
