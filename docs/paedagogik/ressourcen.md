@@ -2,10 +2,10 @@
 layout: default
 title: Ressourcen
 parent: Neue Pädagogik schaffen
-nav_order: 3
+nav_order: 4
 ---
 
-## Ressourcen 
+## Ressourcen
 
 -   FLEXspace (Flexible Learning Environments eXchange) ist ein Open
     Access Repository mit Bildern von Lernraumbeispielen und zugehörigen
