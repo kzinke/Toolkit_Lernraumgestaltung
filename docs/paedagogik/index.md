@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 1. Neue Pädagogik schaffen
+title: Neue Pädagogik schaffen
 nav_order: 2
 has_children: true
 has_toc: false
