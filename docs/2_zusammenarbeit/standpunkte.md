@@ -1,107 +1,121 @@
 ---
 layout: default
 title: Standpunkte und Perspektiven
-parent: Neue Pädagogik schaffen
-nav_order: 3
+parent: Partnerschaftliche zusammenarbeit
+nav_order: 4
 ---
 
 ## Standpunkte und Perspektiven
 
+**Simon Birkett, IT and Learning Manager, University of Staffordshire**,
+ist erfahren in der Leitung von Lernraumprojekten in einer Reihe von
+Universitäten und betrachtet die bessere Gestaltung von Lernräumen als
+eine Art persönliche Mission.
+
+Innerhalb von vier Jahren ist die University of Derby von einem, wie
+Simon es nennt, "standing start" zu einer 6 Millionen Pfund teuren
+Investition in neue Lehrräume übergegangen, und der Schlüssel dazu war
+ein partnerschaftlicher Ansatz. Simon war die akademische Stimme und
+arbeitete eng mit der IT und Estates zusammen. In Derby umfasst nun
+jedes Gespräch über Räume jede dieser drei Komponenten.
+
+Simons andere Schlüsselbotschaft dreht sich darum, Mitarbeiter und
+Studierende mit digitalen Fähigkeiten auszustatten und deren Bedeutung
+für die Arbeitsmarktfähigkeit der Studenten hervorzuheben. An der
+University of Staffordshire wendet er nun all diese Prinzipien an, um
+Innovationen zu fördern und die Lern- und Lehrerfahrung über die gesamte
+Institution hinweg zu verbessern.
+
+Simon berichtete auch, dass die Besichtigung anderer Lernorte eine
+ausgezeichnete Möglichkeit ist, Stakeholder einzubinden und sie dazu zu
+bringen, darüber nachzudenken, was sie wirklich erschaffen wollen. "Erst
+wenn man irgendwo gewesen ist und sehen kann, wie es funktioniert und
+sich anfühlt, versteht man den Raum wirklich". Für Simon ist dies einer
+der Hauptvorteile als Angehöriger einer professionellen Organisation,
+die diese Art der Vernetzung unter ihren Mitgliedern fördert. "In der
+Anfangszeit hatten nur wenige Leute die finanziellen Mittel diese Art
+von Räumen zu schaffen und setzten damit experimentelle Räume für
+andere".
+
+**Bruce Rodger, Head of Infrastructure, Information Services, University
+of Strathclyde**, hat einen IT-Netzwerk-Hintergrund und kümmert sich um
+alle IT-Infrastrukturdienste der Universität, wozu auch audiovisuelle
+Dienste gehören. Im Laufe der Jahre hat er miterlebt, wie die
+verschiedenen Fachgebiete bei Projekten für Lernräume in Konflikt
+gerieten. Da Bruce in der Lage ist, die Probleme von beiden Seiten zu
+sehen, hat er erkannt, dass AV- und IT-Leute ganz unterschiedliche
+Prioritäten haben können, und es nur wenig übertrieben ist zu sagen,
+dass jeder den anderen als Feind sieht. Er sagte: "Oft sehen die
+AV-Leute die Netzwerk-Leute als die Leute mit den Firewalls und den
+Regeln, die ihre coolen Dinge am Funktionieren hindern, und die
+Netzwerk-Leute sehen AV als diejenigen mit nicht verwalteten Geräten
+ohne Authentifizierung, die gegen ihre Sicherheitsrichtlinien
+verstoßen".
+
+Bruce hat eine sehr einfache Botschaft für verschiedene Berufsgruppen,
+die zum ersten Mal bei einem Lernraumprojekt zusammenarbeiten. "Wir sind
+hier alle auf der gleichen Seite und können zusammenarbeiten - wir
+müssen nur miteinander reden". In Strathclyde hat er eine Reihe von
+Schritten unternommen, um Barrieren abzubauen und die Kommunikation zu
+verbessern. Das AV-Personal und die Verantwortlichen für die
+Unterstützung der studentischen Arbeitsplätze sind jetzt unter einem
+Dach vereint, was den Dialog und das Verständnis verbessert hat. Zwei
+seiner AV-Mitarbeiter haben Qualifikationen im Bereich Netzwerktechnik
+absolviert, und er hat auch einen „modern apprentice“ als Teil des
+AV-Teams eingestellt. Er stellte fest, dass es im Gegensatz zu
+Multimedia und IT nur wenige anerkannte Ausbildungsprogramme für AV gab,
+so dass sie typischerweise eine IT-Qualifikation absolvieren und diese
+modifizieren und erweitern müssen, um mehr AV-Fachwissen zu sammeln.
+Bruce sagt, dass man bei Lernraumprojekten "von der Vorstellung
+wegkommen muss, dass AV-Leute einfach am Ende reinkommen und Projektoren
+an die Decke schrauben. Wir müssen sicherstellen, dass sie früher als
+Spezialisten hinzugezogen und als Fachleute voll in den Designprozess
+einbezogen werden".
+
+**Paul Burt, Learning Spaces Service Owner, University College London
+(UCL),** begann seine Karriere in der Lerntechnologie und kam zu der
+Erkenntnis, dass bestimmte Lernräume für die Art von Pädagogik, die man
+durch den Einsatz neuer Technologien zu unterstützen versuchte, nicht
+gerade förderlich waren. Er erkannte die Notwendigkeit eines besseren
+gemeinsamen Verständnisses zwischen verschiedenen professionellen
+Diensten, so dass die Auswirkungen einer Entscheidung, die von einer
+Gruppe von Akteuren getroffen wurde, im Hinblick auf die Lernerfahrung
+berücksichtigt werden können. Er sagt, dies könne etwas so Einfaches
+sein wie die Änderung der Spezifikation einer Jalousie in eine, die mehr
+Licht durchlässt, was sich auf die Lesbarkeit von Projektionen auswirken
+kann, oder die Entscheidung, einen geräuschintensiven Mülleimer
+außerhalb des Raumes anstelle eines Plastikeimers aufzustellen.
+
+**Eleanor Magennis, Head of Space Planning, University of Glasgow**,
+erzählte, dass es an allen Orten, an denen sie gearbeitet hat, durchaus
+die Norm war, Studierende in Lernraumprojekte einzubinden, aber sie ist
+sich bewusst, dass nicht alle Universitäten den gleichen Ansatz
+verfolgen. Sie hält das Argument, dass Studierende nicht wirklich an
+langfristigen Projekten interessiert seien, weil ihre Beziehung zur
+Institution kurzfristig ist, nicht für stichhaltig. Eleanor sagt:
+"Studierende werden zu Ehemaligen, und sie finden den Gedanken
+attraktiv, ein Vermächtnis zu hinterlassen, indem sie bei neuen Gebäuden
+und Projekten mitgewirkt haben, also beteiligen sie sich gern. Wir geben
+ihnen in dieser Hinsicht nicht genug Anerkennung". Sie rät dazu
+Studierende im ersten Studienjahr einzubeziehen, die möglicherweise
+kleinere Projekte bis zum Abschluss begleiten können.
+
 **James Rutherford, Learning Spaces Development Manager, University of
-Birmingham,** hat Untersuchungen zur Gestaltung von Lernräumen mit
-besonderem Schwerpunkt auf kollaborativem Lernen durchgeführt – weitere
-Informationen zu dieser Forschung auf seinem Blog.[^6]
+Birmingham**, betont, wie wichtig es ist, die Stimmen der Studierenden
+zu hören, erkennt aber auch an, dass Studierende recht konservativ sein
+können und nicht immer wissen, was ihnen gefällt, bis sie es sehen. Er
+sagt, dass wir anerkennen müssen, dass Studierende zu verschiedenen
+Zeiten eine Vielzahl von Bedürfnissen haben: individuelles Arbeiten,
+Gruppenarbeit oder nach ruhigen und lebendigen Räumen, und wir müssen
+über eine Zonierung nachdenken, um für Abwechslung zu sorgen. James
+meint, dass die Idee des studentischen Raummissbrauchs eine falsche
+Bezeichnung ist, da die Studenten uns durch ihr Verhalten zeigen, was
+sie eigentlich wollen.
 
-James glaubt, dass die Unterfütterung mit pädagogischen Prinzipien dazu
-beitragen kann, eine Lernraumstrategie sinnvoll mit der Lern- und
-Lehrstrategie zu verknüpfen. "Prinzipien sind wirksamer als Strategien.
-Strategie kann in den Köpfen mancher Leute ein bisschen schwammig sein:
-es ist etwas, das man sagen muss, aber es bedeutet nicht wirklich etwas.
-Prinzipien sind greifbarer und wirksamer für Menschen, die sich damit
-beschäftigen wollen". James ist sich darüber im Klaren, dass die
-Strategie im Hinblick auf das, was vor Ort geschieht, Sinn machen muss:
-In Birmingham wird zunehmend Wert auf forschendes und selbständiges
-Lernen gelegt, und James ist der Meinung, dass dieses Toolkit nützlich
-sein kann, um herauszufinden, wie das in der Praxis aussieht.
-
-**Bruce Rodger, Head of Infrastructure, University of Strathclyde,**
-berichtet, dass in Bezug auf die Gestaltung für bestimmte Arten von
-Lernaktivitäten, der Begriff der Flexibilität für ihn persönlich ein
-Ärgernis ist. "Wenn Leute sagen, dass sie Flexibilität wollen, und man
-sie genau fragt, wie diese Flexibilität aussehen soll, dann wissen sie
-es nicht. Flexibilität ist immer mit Kompromissen verbunden, und
-manchmal zerstört man das, wofür sie ursprünglich gedacht war".
-
-Ein Beispiel dafür ist ein flexibler Raum, der mit einer beweglichen
-Trennwand in der Mitte entworfen wurde, so dass er als ein großer Raum
-oder zwei kleine Räume genutzt werden kann. In der Praxis wird er
-normalerweise als zwei kleine Räume und nur sehr selten als ein großer
-Raum genutzt. Die eingebaute Trennwand bedeutet jedoch, dass
-Geräuschübertragung ein Problem darstellt, das audiovisuelle (AV)
-Steuerungssystem übermäßig kompliziert ist und es zwei Wände gibt, an
-denen nichts aufgehängt werden kann.
-
-Ein weiteres Beispiel ist ein großes Auditorium, das auch in drei
-kleinere Hörsäle umgewandelt werden kann. Dies wurde als besonders
-geeignet für die Nutzung durch die Konferenzbranche angesehen. Der
-Wechsel von einer Konfiguration in eine andere dauert jedoch mit zwei
-Personen fast eine Stunde, eine Einschränkung, die bei der Präsentation
-der Entwürfe nicht offensichtlich war.
-
-Bruce würde anderen sagen, dass man entscheiden muss, was jeder Raum
-leisten muss, und das dann wirklich gut umsetzen sollte und danach sehen
-muss, was man sonst noch unterbringen kann. Er ist der Meinung, dass
-Anpassungsfähigkeit ein viel pragmatischerer Ansatz ist als
-Flexibilität. Es ist ganz praktisch, einen Raum so zu gestalten, dass er
-zwischen zwei oder drei definierten Zuständen anpassbar ist. Ein
-vollständig flexibler Ansatz erfordert eine Menge Unterstützung, die zu
-bestimmten Umstellungszeiten verfügbar ist. Für Bruce stimmt ein oft
-wiederholter Satz: "Flexibilität ist das F-Wort in der
-Lernraumgestaltung".
-
-**Sally Jorjani, Head of Academic and Business Liaison, Edinburgh Napier
-University,** hat festgestellt, dass die Schaffung einiger neuer
-sozialer Lernräume die Interaktion zwischen dem Personal und den
-Studierenden verbessert hat. Sally erzählte uns, dass an ihrer
-Universität die meisten akademischen Mitarbeiter in Zwei- bis
-Drei-Personen-Büros arbeiten, so dass es für sie schwierig ist, mit den
-Studierenden in ihrem Büro zu sprechen, da sie befürchten, ihre Kollegen
-zu stören. Bei der Bewertung der neuen Räume hörte Sally von einem
-Dozenten, der von den neuen Einrichtungen begeistert war, dass sich die
-Interaktion erheblich verbessert hat, während ein Student bemerkte: "Ich
-mag die hohen 'Sofas' sehr, da sie Gruppen eine weitere Möglichkeit
-bieten, ein Projekt zu bearbeiten".
-
-**Eleanor Magennis, Head of Space Planning, University of Glasgow,** ist
-eine ausgewiesene Architektin, die in der Abteilung „Estates and
-Buildings“ an der Universität arbeitet. Eleanor ist glücklich, dass ihr
-erstes Lernraumprojekt (in einer früheren Rolle an der Universität
-Strathclyde) ein Lehrcluster war, der von dem Wunsch angetrieben wurde,
-einen aktiven Lernansatz umzusetzen. Sie arbeitete mit einem
-fantastischen akademischen Vorkämpfer zusammen und hatte von Anfang an
-Studierende eingebunden, was ihr einen sehr guten Einblick in die Lehr-
-und Lernpraxis gab. Diese Erfahrung hat Eleanors Ansichten darüber
-geprägt, wie Universitäten mit Architekten zusammenarbeiten müssen, um
-sicherzustellen, dass sie den Bildungskontext verstehen. Sie sieht eine
-Schlüsselrolle für dieses Toolkit darin, Architekten dabei zu
-unterstützen, zu sehen, wie sich das Lernen verändert, und auch die
-Auswirkungen der Technologie auf das Lernen der Studenten zu verstehen.
-Ohne diese Art von Unterstützung, so Eleanor, würden Projekte einfach
-"das liefern, was immer schon getan wurde".
-
-Eleanor meint, dass eine gute Möglichkeit, an jedes Lernraumprojekt
-heranzugehen, darin besteht, mit den Studienabschlüssen zu beginnen und
-zu fragen, welche Fähigkeiten die Studierenden erwerben sollen; wie
-unterstützt die Lehre dies und wie unterstützt der Raum dies? Das zwingt
-einen dazu, über den pädagogischen Ansatz nachzudenken und die Art des
-Raums zu definieren, der die erforderlichen Aktivitäten unterstützen
-kann. Es ist eine gute Möglichkeit, Akademiker einzubinden und zu
-zeigen, dass man die richtigen Fragen stellt und ihre Sprache spricht.
-Eleanor empfiehlt: "Es ist entscheidend, einen guten akademischen
-Förderer zu haben. Sie treiben das Projekt voran. Sie konzentrieren sich
-auf die Pädagogik und berücksichtigen die Stimme der Studierenden und
-bringen diese ein".
-
----
-
-[^6]: <http://learningenvironmentdesign.net/>
+**Toni Kelly, Associate Director, Learning Environments, University of
+Hong Kong**, sagt, dass Lernräume der Ort sind, an dem die Studierenden
+die Universität erleben, und die Qualität des Raumes, der ihnen sowohl
+für formelles als auch informelles Lernen zur Verfügung steht,
+beeinflusst nicht nur ihre Wahrnehmung der Universität, sondern sendet
+ihnen auch eine direkte Botschaft über die Absichten und Bestrebungen
+der Institution für ihre Lehr- und Lernerfahrung.

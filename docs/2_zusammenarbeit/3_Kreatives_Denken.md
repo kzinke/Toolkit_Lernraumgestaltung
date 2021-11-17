@@ -1,79 +1,143 @@
 ---
 layout: default
-title: Lernen konstruieren
-parent: Neue Pädagogik schaffen
-nav_order: 1
+title: Kreatives Denken
+parent: Partnerschaftliche Zusammenarbeit
+nav_order: 3
 ---
 
-# Lernen „konstruieren“ / Constructing Learning
+# 2.3 Kreatives Denken für eine andere Zukunft
 
-Der Titel dieses Abschnitts ist angelehnt an Monahans (2002) Begriff der
-„Built Pedagogy“ (gebaute Pädagogik/Didaktik), der „architectural
-embodiments of educational philosophies“ bezeichnet. Mit anderen Worten,
-die Art in der ein Raum entworfen ist, formt das Lernen, das in diesem
-Raum stattfindet. Das Design vieler unserer Hörsäle und traditioneller
-Unterrichtsräume hat sich über hunderte von Jahren kaum geändert. Das
-Layout ist im Allgemeinen auf ein Vermittlungsmodell ausgelegt dessen
-gebaute Pädagogik besagt, dass eine Person Information an andere
-weitergibt, die diese alle im gleichen Tempo aufnehmen, indem sie sich
-auf die Person an der Vorderseite des Raumes konzentrieren. So ähnlich
-vermitteln PC Pools, die nur einen Benutzer pro Bildschirm vorsehen,
-oder Bibliotheken, die lautes Sprechen verbieten, eine gebaute
-Pädagogik, die den Ideen des sozialen Konstruktivismus widersprechen.
-Dies steht in starkem Gegensatz zu vorherrschenden pädagogischen
-Konzepten, die „Learning by Doing“, aktives Lernen[^2] und
-problem-basiertes Lernen[^3] betonen.
+Einer der schwierigsten Aspekte für viele Akteure in einem
+Lernraumprojekt ist es, sich Räume vorzustellen, die sich sehr von denen
+unterscheiden, in denen sie unterrichtet wurden oder einen Großteil
+ihres Arbeitslebens verbracht haben. Es ist einfach sich existierende
+Räume vorzustellen, die heller und besser möbliert sind, aber
+schwieriger einen Plan für eine radikal andere Art von Lernerlebnis zu
+entwickeln. Dies kann genauso für Architekten gelten, deren Erfahrung
+mit Hochschulbildung möglicherweise relativ traditionell war: sie können
+architektonisch stimulierende Gebäude entwerfen, brauchen aber eine
+Menge Input von Mitarbeitern und Studierenden damit diese als Lernräume
+des 21. Jahrhunderts funktionieren. Bruce Rodger, Head of
+Infrastructure, University of Strathclyde, betont die Notwendigkeit der
+Institution, über ihre eigene Vision und was sie erreichen will,
+nachzudenken bevor sie externe Berater hinzuzieht: „Manchmal werden
+Architekten etwas zu früh im Prozess eingebunden. Wir müssen sorgfältig
+über die wesentlichen Nutzungen des Raumes nachdenken, bevor
+Designkonzepte in Stein gemeißelt werden.“
 
-Das Thema reicht über formelle Lehrräume hinaus und betrifft andere
-Bereiche, in denen Studierende Zeit verbringen. Studierende verbringen
-viele Übergangszeiten in Fluren oder draußen, wo sie gezwungen sind auf
-dem Boden oder auf Fensterbrettern zu sitzen. Solche Räume sind nicht
-dafür ausgelegt Lernen oder Interaktion zu fördern und verstärken die
-Botschaft, dass Studierende erst dann lernen, wenn sie sich in
-Anwesenheit eines Dozenten in einen formalen Lernraum begeben. Die
-Trennung von Service und Orten, an denen sich Mitarbeiter aufhalten,
-schafft ebenfalls eine Unterscheidung, die Studierende in die Rolle des
-Informationsempfängers versetzt statt in die eines Teils der
-Lerngemeinschaft geprägt von einem Ethos der forschungsorientierten
-Lehre (Van Note Chism, 2006).
+Die gute Nachricht ist, dass kreatives Denken eine Fähigkeit ist, die
+sich entwickeln kann und es viele Techniken gibt, die das unterstützen,
+wie z.B. der Learning Space Canvas[^2]:
 
-Die aktuellen Überlegungen zu „Good Practice“ in der Bildung betonen
-nachdrücklich das Lernen im Gegensatz zum Lehren und sehen den Lernenden
-als Mitschöpfer von Wissen statt Konsumenten von vermittelter
-Information. Unsere Lernräume sollten dies wiederspiegeln.
+ <img src="images/media/image2.png" style="width:6.38721in;height:7.91304in" alt="Learning Space Canvas Context A designed approach to prototyping learning environments that work for teachers and students. Develop c new or retro-fitted learning environment suitable for the next five years (20 S•20J_ Signi icance Dig deeper s.üe 1. Kev 4. rpACK pedagogy &amp; we a the TPACK Tech nology WYEt will : Generic Specialized Pedagogy • Yu Teuh • They • They Informal Gap 3: The Spue (graph t-free k ÆiY7) Co nten t WYEt do to: cm the Add 000 0000 000 0000 000 0000 000 0000 000 0000 000 0000 000 0000 000 0000 000 0000 " />
+<img src="images/media/image3.png" style="width:6.0087in;height:8.29519in" alt="step - WHAT NEXT Action Develop your idea Key Partners Cost Structure Key Actjvfties Key Resources mue Propositions Team Name: Customer Relationships Ch annels Customer Segments Gain Creators Products &amp; Services Pain Relievers Revenue Streams Gains Customer Job(s) Pains " />
 
-Ein anderer Faktor, der sich erheblich auf die Art des möglichen Lernens
-und Lehrens auswirkt, ist die Allgegenwärtigkeit und Zugänglichkeit
-digitaler Technologie. Da Technologie immer mobiler und günstiger wird,
-bietet sie neue Möglichkeiten neue Arten von Lernaktivitäten zu
-entwickeln, die Studierende anregen Lernressourcen zu schaffen und zu
-nutzen sowie in unterschiedlicher Weise innerhalb des physischen Raums
-zusammen zu arbeiten. Die Annäherung von physischen und virtuellen
-Umgebungen ist deshalb ein wichtiges Thema innerhalb des Toolkits.
+Abbildung 3: The Learning Space Canvas
 
-Es stimmt zwar, dass Studierende oft klar identifizierbare Orte, wie
-Bibliotheken, zum Lernen wünschen, jedoch ermöglicht der
-konstruktivistische Lernansatz, unterstützt durch die allgegenwärtige
-Technologie, eine ganzheitlichere, vernetztere Sicht auf den
-Universitätscampus. Statt als einzelne Orte, an denen Lernen in Zeit und
-Raum beschränkt ist, fangen wir an den gesamten Campus als Ort zu
-betrachten, an dem ein kontinuierlicher Fluss von formellem und
-informellem Lernen stattfinden kann.
+Die Nutzung von Metaphern kann hilfreich sein, um Stakeholder dazu
+anzuregen, einen frischen Blick auf die Ideen eines Lernraums und die
+Einrichtungen, Aktivitäten und Zusammenhänge zwischen ihnen zu werfen.
+An der Glasgow Caldonian University wurden bei der Entwicklung des
+Saltire Centre Metaphern genutzt, wie z.B. das Erdgeschoss als Stadt und
+Markplatz, die erste Ebene mit 3 Eingängen und Ausgängen als Abflughalle
+eines Flughafens und andere, ruhigere Ebenen als heimischer Garten und
+Wohnzimmer. An der University of Birmingham wurde die Metapher eines
+durch ein Gebäude wachsenden Baums genutzt um Ideen anzuregen, die das
+Innere nach draußen tragen und das Äußere nach innen. An der
+Loughborough University enthielt der Beratungsprozess für den Design
+School Hörsaal einen Workshop, bei dem Teilnehmer mit Hilfe von
+Knetmasse eine Metapher entwickelten.
+
+Ein Beispiel zur Nutzung einer Metapher, angelehnt an die Arbeit von
+Martin (2010) über Kreativität:
+
+Lade Stakeholder dazu ein, über eine passende Metapher für den Lernraum
+nachzudenken und die Art der Aktivitäten aufzulisten, die ihnen dazu
+einfallen. Z.B. könnten sie einen Garten wählen und Dinge auflisten, die
+man mit einem Garten tun kann, wie z.B.
+
+-   Beobachten und zusehen, was passiert
+
+-   Alles umgraben und von neuem beginnen
+
+-   Ihn erkunden, Unkraut jäten, aufräumen
+
+-   Dinge hinzufügen, wegnehmen oder ersetzen
+
+-   Wände und Zäune bauen
+
+-   Wege schaffen
+
+-   Neu organisieren, neue Gruppen machen, Dinge verrücken
+
+-   Vielfalt an Blumen, Gemüse und Obst wachsen lassen
+
+-   Vögeln und Bienen lauschen
+
+-   In der Sonne liegen und nachdenken
+
+-   Grillen
+
+-   Aussicht einrahmen oder verändern
+
+Als nächstes sollen sie die Metapher auf die reale Situation anwenden
+und die Gartenideen dem Lernraum überstülpen. Was sind die Auswirkungen
+auf den Raum? Einige Beispiele können sein:
+
+-   Alles umgraben und von neuem beginnen – riskieren wir, ein
+    wertvolles Habitat oder wichtiges Teil des Ökosystems wegzunehmen?
+    Welche unerwünschten Unkräuter treten auf, wenn wir nicht genug
+    Instandhaltung machen?
+
+-   Wände und Zäune bauen – ist es sinnvoll Wände und Zäune um
+    Lernbereiche zu haben? Ist dies unverzichtbare Zonierung oder ein
+    Hindernis für verknüpftes Lernen? Können wir Zäune entfernen oder
+    sie meiden, wenn wir wollen? Brauchen wir Tore, Türen und Öffnungen?
+
+-   Wege schaffen, Dinge verbinden, Trittsteine einbauen – Darüber
+    nachdenken, wie die Richtung von Wegen/Pfaden die Sicht und die
+    Leichtigkeit bestimmte Arbeiten auszuführen zu unterschiedlichen
+    Zeiten im Jahr beeinflusst.
+
+-   Vielfalt an Blumen, Gemüse und Obst wachsen lassen – wie machen wir
+    den Boden fruchtbar für verschiedene Arten von Lernen
+
+Es gibt eine Vielzahl weiterer Möglichkeiten, die ursprüngliche Idee
+eines Gartens aufzugreifen, wie z.B. einen Teich anlegen, Baumwachstum
+fördern, einen Sandkasten bauen, eine Schaukel aufhängen… Keine zwei
+Gruppen werden sich jemals dieselben Antworten zu dieser Art von Frage
+ausdenken, aber es kann sehr hilfreich sein, auf diese Dinge auf eine
+andere Art zu schauen, die nicht durch unsere spezifischen
+professionellen Perspektiven eingeschränkt ist.
+
+Die University of Birmingham hat auch Pinterest als ein Mittel genutzt
+um breite Stakeholder Beteiligung zu unterstützen. Pinterest ist ein
+virtuelles „Mood Board“ und Raum für Zusammenarbeit, den die Universität
+bei den ersten Designmeetings nutzte um einen ambitionierten Plan für
+ein akademisches Gebäude zu entwickeln. Matt Sherlock, Assistant
+Director, Learning Environments, University of Birmingham berichtet
+“Manchmal muss man Stakeholder mit ungewöhnlichen Ideen zupflastern, um
+ihr Interesse zu wecken.“ Matt empfand es als relativ leicht die Leute
+dazu zu bringen, sich mit den Ideen auf Pinterest auseinanderzusetzen,
+weil sie sich raussuchen können, ob sie das Material einfach passiv
+aufnehmen oder teilnehmen und Beiträge von anderen bewerten wollen. Die
+Verwendung dieses Tools bot der „Estates“ Abteilung neue Möglichkeiten,
+Anforderungen zu betrachten, um diese besser den Architekten
+kommunizieren zu können.
+
+Viele Leute finden Pläne von Architekten schwer zu verstehen und haben
+Schwierigkeiten sich vorzustellen, wie der Raum in Wirklichkeit aussehen
+könnte. Das bedeutet, dass es wichtig ist schon in einem frühen Stadium
+eine leicht verständliche visuelle Repräsentation zu haben. Fortschritte
+in digitaler Technologie ermöglichen es Architekten viel leichter früher
+im Projekt 3D Visualisierungen produzieren zu können.  
+
+   
+
 
 ---
-[^2]: Aktives Lernen ist ein allgemeiner Begriff für Lernaktivitäten,
-    die die Lernenden anregen, mehr zu tun als nur zuzuhören und Notizen
-    zu machen. Lernende nehmen an Aktivitäten teil, die Synthese,
-    Analyse und Reflexion über den Kursinhalt fördern, wobei die
-    Lernenden ermutigt werden, Eigenverantwortung für ihr Lernen zu
-    übernehmen. Es kann beinhalten, dass die Lernenden entweder einzeln
-    an Aufgaben arbeiten, um ihr Verständnis des Kursinhalts zu klären
-    und zu verinnerlichen, oder mit anderen an gemeinschaftlichen
-    Aktivitäten arbeiten, die das Lernen gegenseitig motivieren und über
-    verschiedene Peer-Perspektiven nachdenken:
-    <http://bit.ly/cityuniactivelearn>
 
-[^3]: Problembasiertes Lernen - eine lernzentrierte Pädagogik, bei der
-    die Lernenden über ein Thema durch die Erfahrung lernen, ein
-    ergebnisoffenes Problem zu lösen, und Lernen als grundsätzlich
-    sozial und gesprächsbasiert erfahren.
+[^2]: This graphic-free version of The Learning Space Canvas is
+    reproduced by kind permission of Prof Robert Fitzgerald, INSPIRE
+    Centre, University of Canberra. The original can be found here:
+    <http://bit.ly/learningspacecanvas>
