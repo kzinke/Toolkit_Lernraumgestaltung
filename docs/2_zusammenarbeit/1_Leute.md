@@ -12,7 +12,7 @@ die Struktur dieses Ökosystems in etwa so aus:
 
 | | |
 |------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Strategie- ebene | Eine Lernraumstrategie, die auf fundierten, pädagogischen Prinzipien basiert, mit der Lern- und Lehrstrategie verbunden ist und idealerweise auch in die Grundstücks-/Vermögensstrategien („Estate“) eingebettet ist. Ein akademischer Leiter, der sich für jedes Einzelprojekt einsetzt. |
+| Strategieebene | Eine Lernraumstrategie, die auf fundierten, pädagogischen Prinzipien basiert, mit der Lern- und Lehrstrategie verbunden ist und idealerweise auch in die Grundstücks-/Vermögensstrategien („Estate“) eingebettet ist. Ein akademischer Leiter, der sich für jedes Einzelprojekt einsetzt. |
 | Management-ebene | Die zentrale Fachabteilung, die für die Durchführung der Einzelprojekte verantwortlich sein werden.                                                                                                                                                                                       |
 | Anwender-ebene   | Einzelne Wissenschaftler/Dozenten und Studierende, die an Arbeitsgruppen o.ä. für Einzelprojekte teilnehmen und die letztendlich die Nutzer des Raums sind. Supportpersonal, das Serviceangebote in oder für den Lernraum anbietet.                                                       |
 
