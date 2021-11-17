@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Standpunkte und Perspektiven
-parent: Partnerschaftliche zusammenarbeit
+parent: 2. Partnerschaftliche Zusammenarbeit
 nav_order: 4
 ---
 

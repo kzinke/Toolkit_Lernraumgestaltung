@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Partizipation managen
-parent: Partnerschaftliche Zusammenarbeit
+title: 2.2 Partizipation managen
+parent: 2. Partnerschaftliche Zusammenarbeit
 nav_order: 2
 ---
 ## 2.2 Partizipation managen 
