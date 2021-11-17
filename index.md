@@ -7,12 +7,12 @@ permalink: /
 ---
 
 # Learning Space Toolkit – Toolkit für Lernraumgestaltung
-{: .fs-9 }
+{: .fs-10 }
 
 Das Toolkit für Lernraumgestaltung soll gesammelte Informationen zur Gestaltung von Lernräumen im universitären Kontext zur Verfügung stellen um Praktiker in ihrer Arbeit zu unterstützen.
 {: .fs-6 .fw-300 }
 
-[Toolkit als PDF](https://github.com/kzinke/Toolkit_Lernraumgestaltung/blob/a14e0b607ebf6cc4b5c6ff3e3ef54bbdb5a3c18d/Toolkit_Lernraumgestaltung_%C3%9Cbersetzung_Version_2021-06.pdf){: .btn .btn-purple }  [Auf Github ansehen](https://github.com/kzinke/Toolkit_Lernraumgestaltung){: .btn .mr-4}
+[Toolkit als PDF](https://github.com/kzinke/Toolkit_Lernraumgestaltung/blob/a14e0b607ebf6cc4b5c6ff3e3ef54bbdb5a3c18d/Toolkit_Lernraumgestaltung_%C3%9Cbersetzung_Version_2021-06.pdf){: .btn .btn-purple .fs-5 .mr-4}  [Auf Github ansehen](https://github.com/kzinke/Toolkit_Lernraumgestaltung){: .btn .fs-5}
 
 ---
 ## Über das Toolkit

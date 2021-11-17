@@ -32,4 +32,6 @@ Insbesondere schlagen wir vor:
 - Wir müssen für eine Vielfalt didaktischer Ansätze entwerfen und dabei die stark vorherrschende Tendenz hin zu einem sozio-konstruktivistischen Ansatz  beachten, die partizipatorische und kollaborative Aktivitäten betont, wo immer diese möglich sind.
 - Wir müssen über den gesamten Campus als Lernort nachdenken und den nahtlosen Übergang verschiedener Arten von Lernaktivitäten sowie die gesamte Bandbreite des Angebots berücksichtigen.
 
->“Wir müssen also anfangen, nicht zu fragen: ‚Welche Gebäude wollen wir?‘, sondern: ‚Welche Art von Bildung wollen wir in Zukunft sehen?‘ Wir sollten nicht fragen: ‚Wie viele Klassenzimmer brauchen wir?‘, sondern: ‚Welche Art von Lernbeziehungen wollen wir fördern? Welche Kompetenzen sollen die Lernenden entwickeln? Welche Hilfsmittel und Ressourcen stehen uns zur Verfügung, um das Lernen zu unterstützen?’” (Rudd et al., 2006)
+>_“Wir müssen also anfangen, nicht zu fragen: ‚Welche Gebäude wollen wir?‘, sondern: ‚Welche Art von Bildung wollen wir in Zukunft sehen?‘ Wir sollten nicht fragen: ‚Wie viele Klassenzimmer brauchen wir?‘, sondern: ‚Welche Art von Lernbeziehungen wollen wir fördern? Welche Kompetenzen sollen die Lernenden entwickeln? Welche Hilfsmittel und Ressourcen stehen uns zur Verfügung, um das Lernen zu unterstützen?’”_ (Rudd et al., 2006)
+
+{: .fs-4 .fw-300 }
