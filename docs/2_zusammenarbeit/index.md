@@ -9,9 +9,12 @@ permalink: /docs/zusammenarbeit
 
 # 2. Partnerschaftliche Zusammenarbeit
 
+![Meeting]{images/media/meeting.jpg}
+<a href="https://de.vecteezy.com/gratis-vektor/meeting">Meeting Vektoren von Vecteezy</a>
+
 **In Kürze**
 
--   **­**wir zeigen auf, dass es bei Lernraumprojekten notwendig ist
+-   wir zeigen auf, dass es bei Lernraumprojekten notwendig ist
     schon relativ früh eine große Breite an Akteuren einzubeziehen
 
 -   wir diskutieren ein Modell für die Art der Beteiligung, die ein
