@@ -9,7 +9,10 @@ permalink: /docs/zusammenarbeit
 
 # 2. Partnerschaftliche Zusammenarbeit
 
-![Meeting]{images/media/meeting.jpg}
+![Meeting](images/media/meeting.jpg)
+
+<img src="https://github.com/kzinke/Toolkit_Lernraumgestaltung/blob/152480982e9df8e6f0943bf2f425cb348afef3ce/docs/2_zusammenarbeit/images/media/meeting.jpg" width=40% height=40%> 
+
 <a href="https://de.vecteezy.com/gratis-vektor/meeting">Meeting Vektoren von Vecteezy</a>
 
 **In Kürze**
