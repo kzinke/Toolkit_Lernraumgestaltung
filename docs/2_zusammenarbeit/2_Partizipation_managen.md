@@ -15,7 +15,7 @@ Kontexte angepasst wurde, seit es zum ersten Mal von 1969 von Arnstein
 eingeführt wurde. Die vereinfachte Version wurde adaptiert aus Arbeiten
 an der Birmingham City University.
 
-<img src="images/media/image1.png" style="width:4.61833in;height:2.42609in" alt="Empower Self-o rga nisi participation in decision making Co Ila borate Involve Participation by info rmation giving Consult Inform Passive/non- pa dici pato Notifv " />
+<img src="images/media/image1.png" style="width:4.61833in;height:2.42609in" alt="Abbildung Partizipationsleiter" />
 
 Abbildung 2. Eine Darstellung der von der Birmingham City University
 adaptierten Version von Arnsteins (1969) Partizipationsleiter.
