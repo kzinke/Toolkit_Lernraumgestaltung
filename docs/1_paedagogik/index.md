@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Neue Pädagogik schaffen
+title: 1. Neue Pädagogik schaffen
 nav_order: 2
 has_children: true
 has_toc: false
 permalink: /docs/paedagogik
 ---
 
-# Eine neue Pädagogik schaffen
+# 1. Eine neue Pädagogik schaffen
 {: .no_toc }
 
 <details open markdown="block">
