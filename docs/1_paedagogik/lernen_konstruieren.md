@@ -1,11 +1,11 @@
 ---
 layout: default
 title: 1.1 Lernen konstruieren
-parent: 2. Neue Pädagogik schaffen
+parent: 1. Neue Pädagogik schaffen
 nav_order: 1
 ---
 
-# 2.1 Lernen „konstruieren“ / Constructing Learning
+# 1.1 Lernen „konstruieren“ / Constructing Learning
 
 Der Titel dieses Abschnitts ist angelehnt an Monahans (2002) Begriff der
 „Built Pedagogy“ (gebaute Pädagogik/Didaktik), der „architectural
