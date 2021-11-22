@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ressourcen
-parent: Neue Pädagogik schaffen
+parent: 1. Neue Pädagogik schaffen
 nav_order: 4
 ---
 
