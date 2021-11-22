@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Prinzipiengeleiteter Ansatz
-parent: Neue Pädagogik schaffen
+title: 1.2 Prinzipiengeleiteter Ansatz
+parent: 1. Neue Pädagogik schaffen
 nav_order: 2
 ---
-# Ein prinzipiengeleiteter Ansatz
+# 1.2 Ein prinzipiengeleiteter Ansatz
 
 Obwohl sich die folgenden Abschnitte mit anerkannten Designstandards für
 bestimmte Aspekte von Lernräumen (z.B. Audiovisuelle Ausrüstung)
