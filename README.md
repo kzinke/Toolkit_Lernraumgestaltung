@@ -1,4 +1,4 @@
-# Toolkit für Lernraumgestaltung
+# Toolkit Lernraumgestaltung
 
 Hier veröffentlichen wir das Toolkit für Lernraumgestaltung, entstanden aus dem BigdiWa Projekt der Unibibliothek Tübingen. 
 
