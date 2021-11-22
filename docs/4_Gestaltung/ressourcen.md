@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ressourcen
-parent:
+parent: 4. Konkrete Gestaltung
 nav_order: 5
 ---
 
