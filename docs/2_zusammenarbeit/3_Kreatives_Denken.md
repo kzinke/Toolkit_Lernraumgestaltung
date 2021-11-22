@@ -29,8 +29,6 @@ Die gute Nachricht ist, dass kreatives Denken eine Fähigkeit ist, die
 sich entwickeln kann und es viele Techniken gibt, die das unterstützen,
 wie z.B. der Learning Space Canvas[^2]:
 
- <img src="images/media/image2.png" style="width:6.38721in;height:7.91304in" alt="Learning Space Canvas Context A designed approach to prototyping learning environments that work for teachers and students. Develop c new or retro-fitted learning environment suitable for the next five years (20 S•20J_ Signi icance Dig deeper s.üe 1. Kev 4. rpACK pedagogy &amp; we a the TPACK Tech nology WYEt will : Generic Specialized Pedagogy • Yu Teuh • They • They Informal Gap 3: The Spue (graph t-free k ÆiY7) Co nten t WYEt do to: cm the Add 000 0000 000 0000 000 0000 000 0000 000 0000 000 0000 000 0000 000 0000 000 0000 " />
-<img src="images/media/image3.png" style="width:6.0087in;height:8.29519in" alt="step - WHAT NEXT Action Develop your idea Key Partners Cost Structure Key Actjvfties Key Resources mue Propositions Team Name: Customer Relationships Ch annels Customer Segments Gain Creators Products &amp; Services Pain Relievers Revenue Streams Gains Customer Job(s) Pains " />
 
 Abbildung 3: The Learning Space Canvas
 
