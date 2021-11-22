@@ -20,6 +20,8 @@ an der Birmingham City University.
 Abbildung 2. Eine Darstellung der von der Birmingham City University
 adaptierten Version von Arnsteins (1969) Partizipationsleiter.
 
+https://github.com/kzinke/Toolkit_Lernraumgestaltung/blob/9780a965dea435f56620d372eaa2660c90df66f2/docs/2_zusammenarbeit/images/media/image1.png
+
 Auch wenn die Leiter hierarchisch angelegt ist (mit jeder Stufe steigt
 der Grad der Partizipation an), ist es nicht notwendigerweise in jedem
 Projekt angemessen oder wünschenswert auf den höchsten Grad der
