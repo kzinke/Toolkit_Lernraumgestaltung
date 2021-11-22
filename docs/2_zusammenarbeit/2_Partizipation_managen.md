@@ -15,12 +15,10 @@ Kontexte angepasst wurde, seit es zum ersten Mal von 1969 von Arnstein
 eingeführt wurde. Die vereinfachte Version wurde adaptiert aus Arbeiten
 an der Birmingham City University.
 
-<img src="images/media/image1.png" style="width:4.61833in;height:2.42609in" alt="Abbildung Partizipationsleiter" />
+![Abbildung 2](images/media/image1.png)
 
 Abbildung 2. Eine Darstellung der von der Birmingham City University
 adaptierten Version von Arnsteins (1969) Partizipationsleiter.
-
-![Abbildung 2](images/media/image1.png)
 
 Auch wenn die Leiter hierarchisch angelegt ist (mit jeder Stufe steigt
 der Grad der Partizipation an), ist es nicht notwendigerweise in jedem
