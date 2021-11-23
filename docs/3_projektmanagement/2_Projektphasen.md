@@ -171,6 +171,8 @@ Aufzügen innerhalb der Universität genutzt, aber – aufgrund der
 gewaltigen Nutzung – war das nicht genug. Infolgedessen, wurde im
 Nachhinein auf höhere Auslastung ausgelegte Anlagen eingebaut.“
 
+**Tool**
+
 Ein Tool aus dem US Learning Space Toolkit, das genutzt werden kann, um
 sich in der Planung mit den verschiedenen Projektphasen
 auseinanderzusetzen ist die „Process Map“ (Prozessvisualisierung). Sie
@@ -191,7 +193,6 @@ Bibliotheken. Für jede Phase gibt es auch Vorschläge für zu erreichende
 Ergebnisse und zu fällende Entscheidungen. Institutionen können diese
 Informationen nutzen, um den Prozess so zu strukturieren, wie es am
 besten für sie passt, abgestimmt auf die Größe, Budget und Kontext.
-
 
 [Download Roadmap Beispiel](https://github.com/kzinke/Toolkit_Lernraumgestaltung/blob/5bd23a3932292102d74e2361a7ddb48c4dd12fb5/%C3%BCbersetzt_Roadmap%20Example.docx){: .btn .btn-purple .fs-5 .mr-4}
 
