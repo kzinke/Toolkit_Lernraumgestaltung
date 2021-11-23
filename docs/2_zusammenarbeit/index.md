@@ -4,7 +4,7 @@ title: 2. Partnerschaftliche Zusammenarbeit
 nav_order: 3
 has_children: true
 has_toc: false
-permalink: /docs/zusammenarbeit
+permalink: /docs/2_zusammenarbeit
 ---
 
 # 2. Partnerschaftliche Zusammenarbeit
