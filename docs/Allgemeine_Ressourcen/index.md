@@ -12,7 +12,7 @@ permalink: /docs/Allgemeine_Ressourcen
 
 -   Toolkit zu Design Thinking als Methode zur Weiterentwicklung/Ideenfindung mit Fokus auf Bibliotheken: <http://designthinkingforlibraries.com/(Englisch, Teile auch auf Deutsch)
 
-  - Einige Techniken zur Inspiration, Ideenfindung, z.B. <https://www.youtube.com/watch?v=wS4MpEAxYMk> oder Inspirationstours:
+    - Einige Techniken zur Inspiration, Ideenfindung, z.B. <https://www.youtube.com/watch?v=wS4MpEAxYMk> oder Inspirationstours:
 <http://designthinkingforlibraries.com/inspiration-tours>
 
 -   Die DINI AG Lernräume beschäftigt sich mit realen und virtuellen Lernräumen im Hochschulbereich, entwickelt Empfehlungen und bietet Austausch- und Informationsveranstaltungen an: <https://dini.de/ag/lernraeume/>
@@ -115,8 +115,6 @@ Bauten**
     - <https://bibliotheksbau.blogspot.com/>
     - <https://bibliothek.htwk-leipzig.de/ueber-uns/kooperationen/bibliotheksbauarchiv/>
 
-##  
-
 **Praxisbeispiele / Good Practice**
 
 -   Vorstellung einiger europäischer Beispiele für Gestaltung von Lehr-
@@ -132,8 +130,6 @@ Bauten**
     Zukunft Vier Praxisbeispiele zu Lernraumgestaltung im digitalen
     Wandel*. 32.
     <https://hochschulforumdigitalisierung.de/sites/default/files/dateien/HFD_AP_45-Lernraeume_der_Zukunft_Praxisbeispiele_Web.pdf>
-
- 
 
 -   Selbstlernzentrum LEO in Kassel
     <https://www.uni-kassel.de/einrichtung/servicecenter-lehre/besser-studieren/leo-lernort>
