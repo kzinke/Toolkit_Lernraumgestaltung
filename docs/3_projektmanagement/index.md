@@ -31,7 +31,7 @@ sich wahrscheinlich mit Dingen beschäftigen, die außerhalb ihrer
 alltäglichen beruflichen Praxis oder ihrer Komfortzone liegen. Der
 vorliegende Abschnitt sollte zusammen mit Abschnitt 2
 ([Partnerschaftliche
-Zusammenarbeit](docs\2_zusammenarbeit\index.md)) gelesen werden,
+Zusammenarbeit](2_zusammenarbeit\index.md)) gelesen werden,
 welcher effektive Mittel beschreibt, sicherzustellen, dass das
 Projektteam den Input bekommt, den es braucht um bestmögliche
 Entscheidungen zu treffen.
