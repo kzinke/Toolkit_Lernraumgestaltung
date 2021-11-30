@@ -3,7 +3,7 @@ layout: default
 title: 1. Neue Pädagogik schaffen
 nav_order: 2
 has_children: true
-has_toc: false
+has_toc: true
 permalink: /docs/1_paedagogik
 ---
 
