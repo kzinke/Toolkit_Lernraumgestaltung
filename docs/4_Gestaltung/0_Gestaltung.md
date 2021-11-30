@@ -3,7 +3,7 @@ layout: default
 title: 4. Konkrete Gestaltung
 nav_order: 5
 has_children: true
-has_toc: false
+has_toc: true
 permalink: /docs/4_Gestaltung
 ---
 

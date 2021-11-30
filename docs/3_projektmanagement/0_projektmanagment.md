@@ -3,7 +3,7 @@ layout: default
 title: 3. Ein Lernraumprojekt managen
 nav_order: 4
 has_children: true
-has_toc: false
+has_toc: true
 permalink: /docs/3_projektmanagement
 ---
 
@@ -31,7 +31,7 @@ sich wahrscheinlich mit Dingen beschäftigen, die außerhalb ihrer
 alltäglichen beruflichen Praxis oder ihrer Komfortzone liegen. Der
 vorliegende Abschnitt sollte zusammen mit Abschnitt 2
 ([Partnerschaftliche
-Zusammenarbeit](https://kzinke.github.io/Toolkit_Lernraumgestaltung/docs/2_zusammenarbeit)) gelesen werden,
+Zusammenarbeit]({{ site.baseurl }}{% link docs/2_zusammenarbeit/0_zusammenarbeit.md %}) gelesen werden,
 welcher effektive Mittel beschreibt, sicherzustellen, dass das
 Projektteam den Input bekommt, den es braucht um bestmögliche
 Entscheidungen zu treffen.

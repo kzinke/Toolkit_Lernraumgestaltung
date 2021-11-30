@@ -3,7 +3,7 @@ layout: default
 title: 2. Partnerschaftliche Zusammenarbeit
 nav_order: 3
 has_children: true
-has_toc: false
+has_toc: true
 permalink: /docs/2_zusammenarbeit
 ---
 
