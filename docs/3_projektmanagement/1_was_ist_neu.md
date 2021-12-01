@@ -18,7 +18,7 @@ jedoch allen Arten von Lernraumprojekten gemeinsam sein:
 
 -   Man wird wahrscheinlich ein Projektlebenszyklus-Modell anwenden,
     welches spezifisch für Bauprojekte ist (siehe
-    [Projektphasen](2_Projektphasen.md) ([Projektphasen]({{ site.baseurl }}{% link docs/3_projektmanagement/2_Projektphasen.md %}))
+    [Projektphasen](2_Projektphasen.md) [Projektphasen]({{ site.baseurl }}{% link docs/3_projektmanagement/2_Projektphasen.md %})
      unten)
 
 -   Man wird wahrscheinlich mit einer Reihe von Akteuren (v.a.
@@ -27,7 +27,7 @@ jedoch allen Arten von Lernraumprojekten gemeinsam sein:
     neuesten Stand dieser Art des Arbeitens gebracht werden müssen. Es
     ist nicht das Ziel dieses Toolkits einen Überblick über allgemeines
     Projektmanagement zu geben, aber es gibt ein paar Hinweise
-    ([Ressourcen](docs\3_projektmanagement\ressourcen.md) Abschnitt) auf hilfreiche Tools
+    ([Ressourcen](ressourcen.md) Abschnitt) auf hilfreiche Tools
 
 Einige Leser haben den Abschnitt zu Projektmanagement und Projektzyklen
 vielleicht am Anfang des Toolkits erwartet. Die Reihenfolge wurde
