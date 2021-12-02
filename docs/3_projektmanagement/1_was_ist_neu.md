@@ -18,8 +18,7 @@ jedoch allen Arten von Lernraumprojekten gemeinsam sein:
 
 -   Man wird wahrscheinlich ein Projektlebenszyklus-Modell anwenden,
     welches spezifisch für Bauprojekte ist (siehe
-    [Projektphasen](2_Projektphasen.md) [Projektphasen]({{ site.baseurl }}{% link docs/3_projektmanagement/2_Projektphasen.md %})  [Zusammenarbeit](0_zusammenarbeit.md)
-    )
+    [Projektphasen](2_Projektphasen.md))
 
 -   Man wird wahrscheinlich mit einer Reihe von Akteuren (v.a.
     wissenschaftlichem Personal und Studierenden) zusammenarbeiten, die
