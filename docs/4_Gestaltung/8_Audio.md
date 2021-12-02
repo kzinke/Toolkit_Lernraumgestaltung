@@ -95,7 +95,7 @@ helfen, diese Art von Fehlern zu vermeiden.
 **Ausführungen zu “Assistive listening systems”** – rausgelassen (bei
 Interesse, s. UK Toolkit)
 
-## Hinweise und Tipps:
+## Hinweise und Tipps
 
 -   Keine multidirektionalen Mikrophone in der Nähe von Lärmquellen wie
     Projektoren oder Heizungs-/Belüftungs-/Kühlungssystemen platzieren.

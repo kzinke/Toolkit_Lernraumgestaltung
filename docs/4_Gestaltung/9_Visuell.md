@@ -115,7 +115,7 @@ bieten:
     sind. Sicherstellen, dass Lernende arbeiten können während die
     Lehrwand immer noch sichtbar ist.
 
-## Hinweise und Tipps:
+## Hinweise und Tipps
 
 -   Die Bereitstellung von „Confidence Monitoren“ (Vorschaumonitoren) an
     der Vorderseite des Raums, ausgerichtet auf den Lehrenden (aber ohne
