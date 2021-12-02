@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Standpunkte und Perspektiven
+title: Standpunkte
 parent: 4. Konkrete Gestaltung
 nav_order: 11
 ---

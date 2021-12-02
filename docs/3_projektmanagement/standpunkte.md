@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Standpunkte und Perspektiven
-parent: 3. Ein Lernraumprojekt managen
+title: Standpunkte
+parent: 3. Lernraumprojekt managen
 nav_order: 7
 ---
 

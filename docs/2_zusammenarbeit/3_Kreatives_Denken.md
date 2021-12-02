@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2.3 Kreatives Denken
-parent: 2. Partnerschaftliche Zusammenarbeit
+parent: 2. Zusammenarbeit
 nav_order: 3
 ---
 

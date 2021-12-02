@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2.1 Leute an den Tisch bekommen
-parent: 2. Partnerschaftliche Zusammenarbeit
+parent: 2. Zusammenarbeit
 nav_order: 1
 ---
 # 2.1 Die richtigen Leute an den Tisch bekommen

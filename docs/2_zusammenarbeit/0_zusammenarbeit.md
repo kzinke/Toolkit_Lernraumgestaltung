@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2. Partnerschaftliche Zusammenarbeit
+title: 2. Zusammenarbeit
 nav_order: 3
 has_children: true
 has_toc: true

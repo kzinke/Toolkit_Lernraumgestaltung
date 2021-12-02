@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 4.2 Einführung in Designstandards
+title: 4.2 Designstandards
 parent: 4. Konkrete Gestaltung
 nav_order: 2
 ---

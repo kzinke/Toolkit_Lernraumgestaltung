@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 3.6 Realitätschecks
-parent: 3. Ein Lernraumprojekt managen
+parent: 3. Lernraumprojekt managen
 nav_order: 6
 ---
 

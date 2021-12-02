@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Standpunkte und Perspektiven
+title: Standpunkte
 parent: 1. Neue Pädagogik schaffen
 nav_order: 3
 ---

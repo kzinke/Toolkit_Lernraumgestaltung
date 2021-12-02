@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ressourcen
-parent: 3. Ein Lernraumprojekt managen
+parent: 3. Lernraumprojekt managen
 nav_order: 8
 ---
 
