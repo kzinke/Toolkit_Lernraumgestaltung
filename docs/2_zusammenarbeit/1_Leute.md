@@ -157,7 +157,7 @@ und umfassenderes Einbeziehen von Stakeholdern berichtet haben:
 
 -   Oft werden Studierende gar nicht hinzugezogen
 
--   [Kommunikation](#_3.4__Kommunikation) ist immer ein großes Thema –
+-   [Kommunikation](../3_projektmanagement/4_Kommunikation.md) ist immer ein großes Thema –
     sie kann anfangs gut sein und im Verlauf schlechter werden
 
 -   Man muss mehrmals kommunizieren, auch wenn man dasselbe immer wieder
