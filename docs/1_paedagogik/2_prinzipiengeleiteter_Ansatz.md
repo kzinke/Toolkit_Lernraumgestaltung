@@ -122,7 +122,7 @@ einschränken. Auch sollten wir zukünftige Bedürfnisse im Kopf behalten,
 können aber nicht verlangen, dass alles flexibel ist, da es schwierig
 ist, zu definieren, was wir damit erreichen wollen (s. [Standpunkte](standpunkte.md)
 und [Kapitel 4 Konkrete Gestaltung verschiedener Arten von
-Lernräumen](../4_Gestaltung/0_Gestaltung.md)).
+Lernräumen](../../4_Gestaltung/0_Gestaltung.md)).
 
 **Eine angenehme Arbeitsumgebung anbieten**
 
