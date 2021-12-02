@@ -4,7 +4,7 @@ title: 3.2 Projektphasen
 parent: 3. Ein Lernraumprojekt managen
 nav_order: 2
 ---
-## 3.2 Projektphasen
+# 3.2 Projektphasen
 
 Typischerweise sind die Phasen eines Lernraumprojektes vergleichbar mit
 den im RIBA-Arbeitsplan skizzierten Phasen:
