@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 4.7 Bestimmte Lernraumarten
+title: 4.7 Bestimmte Arten von Lernräumen
 parent: 4. Konkrete Gestaltung
 nav_order: 7
 ---
