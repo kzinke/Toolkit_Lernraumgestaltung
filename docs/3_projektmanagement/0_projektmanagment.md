@@ -28,7 +28,7 @@ sich mit Besonderheiten eines Lernraumprojekts.
 Jeder der eine wesentliche Rolle in einem Lernraumprojekt spielt wird
 sich wahrscheinlich mit Dingen beschäftigen, die außerhalb ihrer
 alltäglichen beruflichen Praxis oder ihrer Komfortzone liegen. Der
-vorliegende Abschnitt sollte zusammen mit Abschnitt 2 [Partnerschaftliche Zusammenarbeit](../2_zusammenarbeit/0_zusammenarbeit.md) gelesen werden,
+vorliegende Abschnitt sollte zusammen mit Abschnitt 2 ([Partnerschaftliche Zusammenarbeit](../2_zusammenarbeit/0_zusammenarbeit.md) ) gelesen werden,
 welcher effektive Mittel beschreibt, sicherzustellen, dass das
 Projektteam den Input bekommt, den es braucht um bestmögliche
 Entscheidungen zu treffen.
