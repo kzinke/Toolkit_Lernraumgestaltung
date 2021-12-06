@@ -12,16 +12,15 @@ nav_order: 2
 Zu den in diesem Abschnitt vorgestellten Tools für die
 Technologiegestaltung gehören:
 
--   [**Rolle des Technologen**](#rolle-des-technologen) um die Rolle des
+-   [**Rolle des Technologen**](3_Rolle.md) um die Rolle des
     Technologen im Verlauf des Projekts zu verstehen
 
--   [**Einbinden von
-    Technologiepartnern**](#technologiepartner-einbinden) um ein
+-   [**Einbinden von Technologiepartnern**](4_Technologiepartner.md) um ein
     Verständnis für die große Vielfalt von Interessenvertretern zu
     gewinnen, die in verschiedenen Phasen des Projekts eingebunden
     werden, welche Rolle sie spielen und wie man sie am besten einbindet
 
--   [**Lebenszyklus-Strategie Tool**](#lebenszyklus-strategien) zur
+-   [**Lebenszyklus-Strategie Tool**](5_Lebenszyklus.md) zur
     Erarbeitung eines ausgewogenen Portfolios, das über die reinen
     Anschaffungskosten hinausgeht und den Support und die langfristigen
     Auswirkungen der bei der Entwicklung der Anforderungen getroffenen
