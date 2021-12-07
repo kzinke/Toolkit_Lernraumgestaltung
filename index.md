@@ -6,7 +6,7 @@ description: "Das Toolkit Lernraumgestaltung soll gesammelte Informationen zur G
 permalink: /
 ---
 
-# Toolkit Lernraumgestaltung - Learning Space Toolkit 
+# Toolkit Lernraumgestaltung - Learning Space Toolkit
 {: .fs-10 }
 
 Das Toolkit Lernraumgestaltung soll gesammelte Informationen zur Gestaltung von Lernräumen im universitären Kontext zur Verfügung stellen um Praktiker in ihrer Arbeit zu unterstützen.
