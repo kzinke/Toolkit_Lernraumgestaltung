@@ -26,11 +26,9 @@ beim Bau einer Reihe von Hochschulen angewendet, die bewegliche
 Innenwände haben, sodass der Raum umgestaltet werden kann, wenn die
 Zahlen in verschiedenen Fachbereichen variieren.
 
- <img src="./media/image2.png" style="width:4.29245in;height:2.22403in" alt="C:\095BE625\30DB0234-6D90-42FF-B947-F0196E2C4680-Dateien\image004.png" />
+![Brands sechs S aus "How Buildings Learn"](media/image2.png)
 
 Abbildung 4: Brands sechs S aus “How Buildings Learn”
-
- 
 
 Die Flexibilität des Gebäudes beruht daher auf Bauelemente am unteren
 Ende der Liste in der Abbildung. Je besser die Elemente weiter oben in
