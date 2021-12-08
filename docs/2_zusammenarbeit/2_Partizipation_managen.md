@@ -15,7 +15,7 @@ Kontexte angepasst wurde, seit es zum ersten Mal von 1969 von Arnstein
 eingeführt wurde. Die vereinfachte Version wurde adaptiert aus Arbeiten
 an der Birmingham City University.
 
-![Abbildung 2](images/media/image1.png)
+![Abbildung 2](images/image1.png)
 
 Abbildung 2. Eine Darstellung der von der Birmingham City University
 adaptierten Version von Arnsteins (1969) Partizipationsleiter.

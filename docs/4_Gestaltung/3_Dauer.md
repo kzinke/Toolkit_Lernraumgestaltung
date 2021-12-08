@@ -26,7 +26,7 @@ beim Bau einer Reihe von Hochschulen angewendet, die bewegliche
 Innenwände haben, sodass der Raum umgestaltet werden kann, wenn die
 Zahlen in verschiedenen Fachbereichen variieren.
 
-![Brands sechs S aus "How Buildings Learn"](media/image2.png)
+![Brands sechs S aus "How Buildings Learn"](images/image2.png)
 
 Abbildung 4: Brands sechs S aus “How Buildings Learn”
 
