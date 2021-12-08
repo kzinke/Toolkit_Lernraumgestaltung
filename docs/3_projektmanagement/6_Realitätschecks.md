@@ -15,37 +15,37 @@ des Baus wurde von den JISC Empfehlungen zu Lernräumen (JISC, 2007,
 
 **Generelle Design Checkliste**
 
--   Passt der Gesamtentwurf in seine Umgebung und entspricht er den
+- [ ]   Passt der Gesamtentwurf in seine Umgebung und entspricht er den
     Vorgaben der Rahmenbewilligung?
 
--   Berücksichtigt das Design das Layout des Standorts und Themen wie
+- [ ]   Berücksichtigt das Design das Layout des Standorts und Themen wie
     saisonales Hochwasser oder Erosion?
 
--   Sind die ursprünglichen Untersuchungen im Lichte des endgültigen
+- [ ]   Sind die ursprünglichen Untersuchungen im Lichte des endgültigen
     Entwurfs immer noch gültig? (z.B. musste das John Wheatley College,
     Glasgow, weitere geotechnische Untersuchungen anstellen, nachdem der
     Gebäude-Fußabdruck bekannt war)
 
--   Berücksichtigt das Layout alle Zugänglichkeitsabwägungen
+- [ ]  Berücksichtigt das Layout alle Zugänglichkeitsabwägungen
     einschließlich Fußgänger, Fahrrad, Öffentlicher Transport, Parken?
 
--   Berücksichtigt das Design Überlegungen zu Reinigung, Instandhaltung
+- [ ]  Berücksichtigt das Design Überlegungen zu Reinigung, Instandhaltung
     und Abfallbeseitigung, z.B. ist es möglich die Fenster zu reinigen
     ohne Zugangswege zu blockieren?
 
--   Wurden die Funktionen in unterschiedlichen Teilen des Gebäudes im
+- [ ]  Wurden die Funktionen in unterschiedlichen Teilen des Gebäudes im
     Verhältnis zueinander betrachtet, im Hinblick auf Lärm, Gesundheits-
     und Gefahrenquellen und besonderen Sicherheitsanforderungen?
 
--   Was ist mit Funktionen in unterschiedlichen Teilen des Gebäudes im
+- [ ]  Was ist mit Funktionen in unterschiedlichen Teilen des Gebäudes im
     Verhältnis zueinander, in Bezug auf Sichtlinien und Fragen der
     Privatsphäre und Sicherheit?
 
--   Was ist mit dem Entwurf in Bezug auf die jeweiligen
+- [ ]  Was ist mit dem Entwurf in Bezug auf die jeweiligen
     Betriebsaufrechterhaltungs- und/oder Notfall-Wiederaufnahmepläne, um
     Probleme und/oder Möglichkeiten aufzudecken?
 
--   Wurde genug über zukünftige Veränderungen nachgedacht? Insbesondere
+- [ ]  Wurde genug über zukünftige Veränderungen nachgedacht? Insbesondere
     wenn Planung oder Probleme eine Verzögerung des Projektes verursacht
     haben, kann es notwendig sein, die Pläne zu überarbeiten, z.B.
     stellte eine Hochschule, die eine photographische Dunkelkammer
@@ -59,57 +59,57 @@ dass Architekten und Bauunternehmen viel Spezialwissen haben, deshalb
 wird man sicherstellen müssen, dass man geeignet qualifizierte Experten
 in seine Realitätschecks einbezieht. Man kann damit anfangen, zu fragen:
 
--   Wurden die Lage und die Kapazität der Stromquellen berücksichtigt?
+- [ ]  Wurden die Lage und die Kapazität der Stromquellen berücksichtigt?
 
--   Kennt man die Lage und die genaue Route anderer
+- [ ]  Kennt man die Lage und die genaue Route anderer
     (Strom-)leitungsnetzen?
 
--   Wo befinden sich die nächste Janet (UK Forschungs- und
+- [ ]  Wo befinden sich die nächste Janet (UK Forschungs- und
     Bildungsnetzwerk) Netzwerkverbindung?
 
--   Wie sieht es mit der Länge der Kabelwege aus?
+- [ ]  Wie sieht es mit der Länge der Kabelwege aus?
 
--   Wurden die Lage der Serverräume bedacht, z.B. um sicherzustellen,
+- [ ]  Wurden die Lage der Serverräume bedacht, z.B. um sicherzustellen,
     dass sich keiner unter einem Wassertank befindet?
 
--   Wurden die Belüftungs-/Kühlungsanforderungen von Serverräumen und
+- [ ]  Wurden die Belüftungs-/Kühlungsanforderungen von Serverräumen und
     anderen Räumen mit spezieller Maschinenausstattung berücksichtigt?
 
--   Sind Details wie Regalgrößen etc. bekannt um sicherzustellen, dass
+- [ ]  Sind Details wie Regalgrößen etc. bekannt um sicherzustellen, dass
     die Ausrüstung in den geplanten Raum passen?
 
--   Gab es ausreichend Zusammenarbeit zwischen den technischen und
+- [ ]  Gab es ausreichend Zusammenarbeit zwischen den technischen und
     IT-Lieferanten und dem eigenen technischen oder IT-Personal, um
     sicherzustellen, dass die neue Ausrüstung mit den bestehenden
     Diensten/Infrastrukturen kompatibel ist?
 
--   Wurden Sichtlinien in Bezug zu allen statischen audiovisuellen Gerät
+- [ ]  Wurden Sichtlinien in Bezug zu allen statischen audiovisuellen Gerät
     in Lehrräumen geprüft?
 
--   Ist Mobiltelefonempfang möglich, wo es nötig ist, wie im
+- [ ]  Ist Mobiltelefonempfang möglich, wo es nötig ist, wie im
     Eingangsbereich und in sozialen und kollaborativen Bereichen?
 
--   Wird Drucken/Kopieren und andere Geräte in offen gestalteten Bereich
+- [ ]  Wird Drucken/Kopieren und andere Geräte in offen gestalteten Bereich
     Lärm verursachen?
 
--   Wurden alle Zugänglichkeitsfragen voll berücksichtigt, z.B. erlaubt
+- [ ]  Wurden alle Zugänglichkeitsfragen voll berücksichtigt, z.B. erlaubt
     der geschätzte Fußabdruck größere
     Monitore/Tastaturen/Rollstuhlzugang wo nötig?
 
--   Wurde an alle Orte gedacht, die Leute als Lernräume nutzen könnten –
+- [ ]  Wurde an alle Orte gedacht, die Leute als Lernräume nutzen könnten –
     ist WLAN etwa in Gartenbereiche und Studentenzimmern verfügbar?
 
--   Ist klar, aus welcher Quelle die Kosten für neue und Ersatz-Geräten
+- [ ]  Ist klar, aus welcher Quelle die Kosten für neue und Ersatz-Geräten
     finanziert wird (das Projekt-, Instituts- oder lokales Budge?)
 
--   Wurden alle möglichen Schritte unternommen, um Flexibilität zu
+- [ ]  Wurden alle möglichen Schritte unternommen, um Flexibilität zu
     erleichtern, z.B. die Verwendung von Doppelböden, so dass
     Dienstleistungen nach Bedarf verlegt werden können?
 
--   Gibt es ein klares Verständnis für die laufenden Kosten, die mit der
+- [ ]  Gibt es ein klares Verständnis für die laufenden Kosten, die mit der
     Technik verbunden sind?
 
--   Wurde über Austauschzyklen und Terminierung von Upgrades/Ersatz
+- [ ]  Wurde über Austauschzyklen und Terminierung von Upgrades/Ersatz
     nachgedacht?
 
 **Checkliste für einzelne Räume**
@@ -127,96 +127,96 @@ Sheets zu nutzen, um sicherzustellen, dass man alle Anforderungen
 vollständig und in einer Weise erfasst hat, dass sie genau kalkuliert
 werden können:
 
--   Wurde der Platz für spezielle, schwere, sperrige Ausrüstung
+- [ ]  Wurde der Platz für spezielle, schwere, sperrige Ausrüstung
     berücksichtigt und sichergestellt, dass sie zum entsprechenden
     Zeitpunkt eingebaut werden kann?
 
--   Sind Aufzüge groß genug, um sperrige Dinge in der Zukunft zu
+- [ ]  Sind Aufzüge groß genug, um sperrige Dinge in der Zukunft zu
     bewegen?
 
--   Wurden jahreszeitliche Schwankungen in Bezug auf die Prozesse
+- [ ]  Wurden jahreszeitliche Schwankungen in Bezug auf die Prozesse
     innerhalb des Raumes berücksichtigt? Wird der Raum für gelegentliche
     Massenveranstaltungen genutzt, wie Einschreibungen oder Prüfungen
     und was hat das für Implikationen?
 
--   Wird ein Raum, der ideal für die Nutzung im Sommer ist, geeigneten
+- [ ]  Wird ein Raum, der ideal für die Nutzung im Sommer ist, geeigneten
     Platz bieten, um schwere Jacken aufzuhängen und nasse Regenschirme
     unterzubringen?
 
--   Gibt es ausreichend sichere Aufbewahrungen für persönliche
+- [ ]  Gibt es ausreichend sichere Aufbewahrungen für persönliche
     Gegenstände von Personal und Studierenden?
 
--   Gibt es Überlegungen in öffentlich zugänglichen Bereichen in Bezug
+- [ ]  Gibt es Überlegungen in öffentlich zugänglichen Bereichen in Bezug
     auf Datenschutz? Dies kann insbesondere dann eine Rolle spielen,
     wenn Personal und Studierende denselben Raum nutzen.
 
--   Wie sieht es mit flexiblen Räumen in Bezug auf Gesundheits- und
+- [ ]  Wie sieht es mit flexiblen Räumen in Bezug auf Gesundheits- und
     Sicherheitsabwägungen aus, v.a., wenn Nutzer Möbel umstellen können?
     Man muss über die Risiken, Möbel physisch verrücken zu können,
     nachdenken (einschließlich der Möglichkeit, dass neue Anordnungen
     Zugang zu Ausgängen oder grundlegenden Diensten blockieren könnten)
     und die Risiken von sich schlängelnden Stromkabeln.
 
--   Atriumbereiche, Zwischengeschosse und offene Fußwege schaffen ein
+- [ ]  Atriumbereiche, Zwischengeschosse und offene Fußwege schaffen ein
     Gefühl von Höhe und Raum – wurde auf diese Räume in Bezug auf
     Gesundheits- und Sicherheitsabwägungen geschaut, insbesondere in
     Bezug auf Objekte, die von einer Ebene zur nächsten fallen können?
     Man sollte etwa sicherstellen, dass Geländer an Galerien so geformt
     sind, dass Leute keine Gegenstände auf der Kante ablegen können.
 
--   Neue Räume ziehen häufig ein höheres Nutzungsniveau an, als erwartet
+- [ ]  Neue Räume ziehen häufig ein höheres Nutzungsniveau an, als erwartet
     – können Reinigungs- und ähnliche Services mit Nutzungsspitzen
     umgehen?
 
--   Können Cafeteria-Bereiche Spitzenbelastung ohne Wartschlangen und
+- [ ]  Können Cafeteria-Bereiche Spitzenbelastung ohne Wartschlangen und
     Staus bewältigen?
 
--   Wurde die Zirkulation im Raum zu Spitzenzeiten berücksichtigt, etwa,
+- [ ]  Wurde die Zirkulation im Raum zu Spitzenzeiten berücksichtigt, etwa,
     wenn Studierende von einer Veranstaltung zur nächsten wechseln, um
     potentielle Engstellen zu identifizieren?
 
--   Wurden die Anordnungen von fester Bestuhlung zu Heizungs- und
+- [ ]  Wurden die Anordnungen von fester Bestuhlung zu Heizungs- und
     Belüftungsauslässen berücksichtigt, um sicher zu gehen, dass Nutzer
     nicht im Zug oder zu nah an Hitzequellen sitzen?
 
--   Angenommen es gibt eine Nichtraucher-Regelung innerhalb des
+- [ ]  Angenommen es gibt eine Nichtraucher-Regelung innerhalb des
     Gebäudes, wo werden Raucher sich sammeln und wird das zu Problemen
     mit Zugang und Abfall führen?
 
--   Wie wird man Lärmpegel dort regulieren, wo offene Zugangs- und
+- [ ]  Wie wird man Lärmpegel dort regulieren, wo offene Zugangs- und
     flexible Bereiche nahe an Bereichen sind, in denen formelle Lehre
     stattfindet?
 
--   Wurde über Beschilderung nachgedacht (v.a. in großen, offen
+- [ ]  Wurde über Beschilderung nachgedacht (v.a. in großen, offen
     geplanten oder zonierten Räumen), um die Nutzung der Räume durch
     Nutzer und das Auffinden von Services zu erleichtern?
 
--   Wurde nachgedacht über Kosten und die potentiellen Schwierigkeiten
+- [ ]  Wurde nachgedacht über Kosten und die potentiellen Schwierigkeiten
     von Änderungen der Beschilderung, während die Gebäudenutzung sich
     entwickelt?
 
--   Wo es Service-Punkte in Studierendenbereichen gibt, wird das
+- [ ]  Wo es Service-Punkte in Studierendenbereichen gibt, wird das
     Personal Zugang zu allen Geräten haben, die sie brauchen, um
     Anfragen effektiv zu bearbeiten?
 
--   Wurde darüber nachgedacht, wie man eine bedarfsgesteuerte Besetzung
+- [ ]  Wurde darüber nachgedacht, wie man eine bedarfsgesteuerte Besetzung
     mit Personal sicherstellen kann?
 
--   Wie ist der Bedarf für Instandhaltungsmaßnahmen in jedem Raum?
+- [ ]  Wie ist der Bedarf für Instandhaltungsmaßnahmen in jedem Raum?
     Situationen sollten vermieden werden, bei denen
     Routine-Instandhaltung komplex wird (z.B. wenn es ein Gerüst
     braucht, um eine Glühlampe zu wechseln und in der Zwischenzeit ein
     ganzer Lernbereich düster bleibt).
 
--   Wird es 24x7 Nutzung geben?
+- [ ]  Wird es 24x7 Nutzung geben?
 
--   Wurde an Sicherheit für Menschen und Ausstattung außerhalb normaler
+- [ ]  Wurde an Sicherheit für Menschen und Ausstattung außerhalb normaler
     Öffnungszeiten gedacht?
 
--   Raum um sich privat zu treffen – man kann darüber nachdenken private
+- [ ]  Raum um sich privat zu treffen – man kann darüber nachdenken private
     Bereiche zu haben, die keine Reservierung durch ein Buchungssystem
     benötigen, um auf ad hoc Ereignisse reagieren zu können, wie einen
     verzweifelten Studierenden.
 
--   Wurde genügend über zukünftige Veränderungen nachgedacht oder sich
+- [ ]  Wurde genügend über zukünftige Veränderungen nachgedacht oder sich
     zu sehr darauf konzentriert wie die Dinge momentan sind?

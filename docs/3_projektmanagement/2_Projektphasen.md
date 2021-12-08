@@ -37,7 +37,7 @@ die Projektdefinition relativ überschaubar machen. In anderen Fällen
 gibt es möglicherweise eine Zeit der Abwägung verschiedener Optionen, um
 festzulegen, ob ein Neubau oder eine Umgestaltung die angemessenste
 Lösung ist. Hinweise zu Tools zur Abwägung von Optionen finden sich im
-[Ressourcen-Abschnitt](#ressourcen).
+[Ressourcen-Abschnitt](../ressourcen).
 
 Eine Reihe von Mitwirkenden des Toolkit haben angemerkt, dass es sich –
 wenn Investitionsentscheidungen bezüglich Renovierungen anstehen –
@@ -75,7 +75,7 @@ Ziele und Erwartungen:
 -   **Man sollte einen realistischen Zeitplan für das Projekt
     erstellen**, und dabei den Prozess der Entscheidungsfindung
     berücksichtigen, genügend Zeit für
-    [Überprüfung/Feedback](#_7._Evaluation) einplanen und Zeit für die
+    [Überprüfung/Feedback](../7_Evaluation/0_Evaluation.md) einplanen und Zeit für die
     Entwicklung von Prototypen und die Erprobung der eigenen Ideen
     einplanen.
 
@@ -84,8 +84,7 @@ Ziele und Erwartungen:
 In dieser Phase beginnt man wirklich, die Vision für eine bestimmte Art
 von Lernumgebung umzusetzen. Zu diesem Zeitpunkt sollte man auch die
 größte Breite an Stakeholdern einbeziehen (siehe mehr dazu in Kapitel 2,
-[Partnerschaftliche
-Zusammenarbeit](#_2._Partnerschaftliche_Zusammenarbei)). Visuelle
+[Partnerschaftliche Zusammenarbeit](../2_zusammenarbeit/0_zusammenarbeit.md)). Visuelle
 Darstellungen sind in dieser Phase wichtig. Viele Menschen finden es
 schwierig, Pläne zu verstehen und sich in 3D vorzustellen, wie ein
 Gebäude aussehen wird. Den Leuten fällt es schwer, sich auf etwas
@@ -99,15 +98,14 @@ viel nützlicher, als zu versuchen, Designentscheidungen um einen Tisch
 auf einem Papierplan zu treffen.
 
 Dieser Toolkit betont Kreativität und Innovation im Lernraumdesign
-(siehe dazu Kapitel 1, [Eine neue Pädagogik
-schaffen](#_Eine_neue_Pädagogik), und Kapitel 2, [Partnerschaftliche
-Zusammenarbeit](#_2._Partnerschaftliche_Zusammenarbei)). Er ist auch für
+(siehe dazu Kapitel 1, [Eine neue Pädagogik schaffen](../1_paedagogik/0_paedagogik.md),
+und Kapitel 2, [Partnerschaftliche Zusammenarbeit](../2_zusammenarbeit/0_zusammenarbeit.md)). Er ist auch für
 vielbeschäftigte Praktiker entstanden, um ihnen zu helfen, nutzbare und
 effektive Räume zu gestalten, und betont die Wichtigkeit anerkannte
 Standards für den Entwurf anzuwenden (siehe dazu v.a. die Abschnitte zu
-[funktionalen Raumdesignstandards](#_4.5__Funktionale),
-[Audio-Design-Standards](#_4.9__Audio), [Visuelle
-Design-Standards](#_4.10__Visuelle) und [IT Standards](#_4.11__IT)).
+[funktionalen Raumdesignstandards](../4_Gestaltung/4_Raumstandards.md),
+[Audio-Design-Standards](../4_Gestaltung/8_Audio.md), [Visuelle Design-Standards](../4_Gestaltung/9_Visuell.md)
+und [IT Standards](../4_Gestaltung/10_IT.md)).
 
 Es zahlt sich aus, die Designideen mit einer Reihe von Realitätschecks
 zu prüfen (siehe später in diesem Abschnitt). Architekten und
@@ -155,7 +153,7 @@ wichtiger Meilenstein, der gefeiert werden sollte, kennzeichnet aber
 wahrscheinlich nicht das Ende des Projektes. Eine effektive
 Post-Occupancy Evaluation ist notwendig um sicherzustellen, dass der
 Raum wie geplant funktioniert (siehe Kapitel 7
-[Evaluation](#_7._Evaluation)).
+[Evaluation](../7_Evaluation/0_Evaluation.md)).
 
 Es zahlt sich aus, darüber nachzudenken, wie sich die Belegung aufgrund
 von neuen Entwicklungen verändern könnte. Viele Lernraumprojekte wurden

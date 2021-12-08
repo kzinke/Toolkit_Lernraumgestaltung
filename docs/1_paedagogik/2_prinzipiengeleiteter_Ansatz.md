@@ -4,6 +4,7 @@ title: 1.2 Prinzipiengeleiteter Ansatz
 parent: 1. Neue Pädagogik schaffen
 nav_order: 2
 ---
+
 # 1.2 Ein prinzipiengeleiteter Ansatz
 
 Obwohl sich die folgenden Abschnitte mit anerkannten Designstandards für
@@ -121,8 +122,7 @@ Technologien. Physische Räume sollten die Art der Lernaktivitäten nicht
 einschränken. Auch sollten wir zukünftige Bedürfnisse im Kopf behalten,
 können aber nicht verlangen, dass alles flexibel ist, da es schwierig
 ist, zu definieren, was wir damit erreichen wollen (s. [Standpunkte](standpunkte.md)
-und [Kapitel 4 Konkrete Gestaltung verschiedener Arten von
-Lernräumen](../../4_Gestaltung/0_Gestaltung.md)).
+und [Kapitel 4 Konkrete Gestaltung verschiedener Arten von Lernräumen](../4_Gestaltung/0_Gestaltung.md)).
 
 **Eine angenehme Arbeitsumgebung anbieten**
 
