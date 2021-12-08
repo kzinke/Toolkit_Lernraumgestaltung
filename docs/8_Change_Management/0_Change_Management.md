@@ -101,3 +101,9 @@ Angesichts des stark partizipatorischen Ansatzes in der
 Entwicklungsphase des Projekts ist davon auszugehen, dass die meisten
 Universitäten auch weiterhin den Schwerpunkt auf Partizipations-
 zusammen mit edukativen Strategien legen werden.
+
+---
+
+[^1]: Jisc (updated 2014) Change management, The theory, methodologies
+    and techniques to help manage change effectively:
+    [www.jisc.ac.uk/guides/change-management](http://www.jisc.ac.uk/guides/change-management)
