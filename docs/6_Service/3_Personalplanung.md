@@ -218,8 +218,7 @@ besetzt sein wird, könnte man am Ende eine Tabelle wie diese erhalten:
 Wenn man folgendes weiß (oder abschätzt): (1) die erwartete Anzahl der
 VZÄ, (2) die Aufschlüsselung dieser VZÄ nach Disziplin/Bereich und
 Dienstalter, und (3) die Verteilung dieser Mitarbeiter nach Raumtyp,
-dann geht man direkt zum [**Integrated Budgeting
-Tool**](#_3.5.2_Integratives_Budgetierungstoo).
+dann geht man direkt zum [**Integrated Budgeting Tool**](../3_projektmanagement/5_Integration.md/#_3.5.2).
 
 <table>
 <colgroup>

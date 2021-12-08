@@ -51,7 +51,7 @@ Schlüsselmerkmale von Zielnutzergruppen
 Personas sind fiktive Charaktere, die geschaffen werden, um bestimmte
 Schlüsselmerkmale von Zielgruppen zu verkörpern. Mit Personas kann man
 Nutzerforschungsdaten in Beispielbenutzer "verpacken", die wiederum zur
-Entwicklung von use cases für den Lernraum und [Services](#_6.__Service)
+Entwicklung von use cases für den Lernraum und [Services](../6_Service/0_Service.md)
 genutzt werden können. Personas bieten einige Vorteile für diejenigen,
 die Designprojekte durchführen, darunter:
 

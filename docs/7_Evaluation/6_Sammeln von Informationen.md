@@ -686,3 +686,11 @@ Gebäude X).
     225-242 Seiten. doi: [10.5282/O-BIB/2016H4S225-242](https://doi.org/10.5282/O-BIB/2016H4S225-242)
 
 -   Beispiel für Evaluation des Lernverhaltens nach Lernraumgestaltung in einer wissenschaftlichen Bibliothek: Montgomery, S. E. (2014). Library space assessment: User learning behaviors in the library. The Journal of Academic Librarianship, 40(1), 70-75. <https://www.sciencedirect.com/science/article/pii/S0099133313001547>
+
+---
+[^2]: Ethnographische Ansätze beinhalten Forschung, die versucht,
+    Verhaltensweisen aus einer Insider-Perspektive zu verstehen, anstatt
+    externe Modelle vorzugeben. Solche Ansätze stützen sich in der Regel
+    auf mehrere Evidenzquellen.
+
+[^3]: <http://tools.jiscinfonet.ac.uk/downloads/lsd/solstice-presentation.pdf>

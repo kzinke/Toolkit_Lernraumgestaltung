@@ -110,7 +110,7 @@ Entscheidungsfindung aufbauen**
     sicherstellen, dass Designattribute den Betrieb nicht
     beeinträchtigen (z.B. unnötige Personalbesetzung schaffen)
 
-### 3.5.2 Integratives Budgetierungstool
+### 3.5.2 Integratives Budgetierungstool {#_3.5.2}
 
 Das integrative Budgetierungstool ermöglicht es, Kostenaufstellungen für
 die zu bauenden/zu renovierenden Räume, die technische Ausstattung und

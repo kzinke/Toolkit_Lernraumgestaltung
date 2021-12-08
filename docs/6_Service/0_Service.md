@@ -12,7 +12,7 @@ Serviceangebot und Räume müssen in integrierter Weise entworfen und
 durch Nutzerforschung gestützt werden. Serviceangebote sollten so
 gestaltet werden, dass sie nicht nur Anbieter-Effizienz, sondern auch
 Nutzer-Effektivität maximieren. Dieser Toolkit – aufbauend auf den
-[Instrumenten der Nutzerforschung](#_7.6_Sammeln_und), die im Abschnitt
+[Instrumenten der Nutzerforschung](../7_Evaluation/6_Sammeln von Informationen.md), die im Abschnitt
 Evaluation vorgestellt werden – zielt darauf ab, einen Prozess und die
 Werkzeuge zu bieten, um Serviceangebote innerhalb von Lernräume zu
 gestalten, zu betreiben und zu evaluieren. Serviceangebote innerhalb

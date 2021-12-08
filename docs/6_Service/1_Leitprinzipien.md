@@ -44,7 +44,7 @@ mit dem Raum und den Nutzern interagiert.
 
 **Evaluation**
 
--   **Serviceangebote kontinuierlich prüfen**. Es sollte einen Plan geben, wie Daten ausgewertet und genutzt werden um Serviceangebote auf Grundlage der Rückmeldungen zu verfeinern und zu verbessern. Kanäle für Feedback können Umfragen, Interviews, Beobachtungen und Fokusgruppen sein (siehe Abschnitt zu [Bedarfsermittlung](#_7.6_Sammeln_und))
+-   **Serviceangebote kontinuierlich prüfen**. Es sollte einen Plan geben, wie Daten ausgewertet und genutzt werden um Serviceangebote auf Grundlage der Rückmeldungen zu verfeinern und zu verbessern. Kanäle für Feedback können Umfragen, Interviews, Beobachtungen und Fokusgruppen sein (siehe Abschnitt zu [Bedarfsermittlung](../7_Evaluation/6_Sammeln von Informationen.md))
 
 -   **Servicekonzepte für Evaluation des Betriebs nutzen.** Die in der Planungsphase erstellten Servicekonzepte (Blueprints) skizzieren die Aktivitäten der Mitarbeiter vor und hinter den Kulissen sowie den Bedarf an Systemen und Infrastruktur. Man kann auf diese zurückkommen um sicherzustellen, dass man sich an sie hält, oder die Pläne auch aktualisieren, damit sie als „lebende Dokumente“ dienen.
 

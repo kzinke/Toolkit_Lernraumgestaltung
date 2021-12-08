@@ -58,7 +58,7 @@ Die Universität von Strathclyde erkannte die Risiken, die eine zu starke
 Dezentralisierung im Raummanagement mit sich bringt, und unterzog sich
 einer großen Anstrengung im Veränderungsmanagement als Folge eines
 Brandes, der 50 Lehrräume 18 Monate lang nicht nutzbar machte (siehe
-untenstehende Standpunkte).
+[Standpunkte](../standpunkte)).
 
 Viele Universitäten setzen virtuelle Desktop-Technologie ein, um
 sicherzustellen, dass die Studierenden auf jedem Gerät, das sie zu

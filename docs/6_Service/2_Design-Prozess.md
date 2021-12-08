@@ -17,20 +17,20 @@ einzelnen Schritten und Tools arbeitet.
 
 Die Service Design Tools, die dieser Lernraum-Toolkit beinhaltet, sind:
 
--   [ServicePlot](#service-plot) um die eigene Service Philosophie, Wert
+-   [ServicePlot](#_6.2.1) um die eigene Service Philosophie, Wert
     und Vision zu verstehen
 
--   [Personas Overview](#_6.2.2_Personas) um die Motivationen und
+-   [Personas Overview](#_6.2.2) um die Motivationen und
     Verhalten der Nutzer darzustellen
 
--   [Service Location Planner](#service-location-planner) um festzulegen
+-   [Service Location Planner](#_6.2.3) um festzulegen
     welche Services wo, wann und durch wen angeboten werden
 
--   [Customer Journey Map](#journey-map) um die Nutzung von Service/Raum
+-   [Customer Journey Map](#_6.2.4) um die Nutzung von Service/Raum
     über die Zeit aufzuzeichnen und Zeiten der Interaktion oder
     “Berührungspunkte” zu identifizieren.
 
--   [Service Blueprints](#servicekonzept-blueprint) zur Orientierung,
+-   [Service Blueprints](#_6.2.5) zur Orientierung,
     wie sowohl „Front-Line“-Mitarbeiter als auch diejenigen hinter den
     Kulissen Service durch verschiedene Kanäle anbieten werden
 
@@ -45,7 +45,7 @@ erstellen, ein neues Service Angebot aufzubauen und auszuprobieren oder
 sogar seine Vision zu überdenken. Die zu Verfügung gestellten Ressourcen
 bieten weitere Einblicke in diese Werkzeuge und wie sie zusammenspielen.
 
-## 6.2.1 Service Plot
+## 6.2.1 Service Plot {#_6.2.1}
 
 *Was ist die eigene Servicephilosophie?*
 
@@ -106,7 +106,7 @@ Erarbeiten einer Vision**
 
 -   Einführung von Mindtools zu [Writing Vision and Mission Statements](http://www.mindtools.com/pages/article/newLDR_90.htm)
 
-## 6.2.2 Personas
+## 6.2.2 Personas {#_6.2.2}
 
 Personas sind fiktive Charaktere, die geschaffen werden, um bestimmte
 Schlüsselmerkmale von Zielbenutzergruppen zu verkörpern. Mit Personas
@@ -115,10 +115,10 @@ wiederum zur Entwicklung von Use Cases für den Lernraum und zur
 Gestaltung von Serviceangeboten verwendet werden können. Personas werden
 während des gesamten Prozesses der Gestaltung von Services verwendet,
 wenn Tools wie Journey Maps und Servicekonzepte (Blueprints) verwendet
-werden. Werkzeuge zur Erstellung von [Personas](#_7.7__Mit) sind im
+werden. Werkzeuge zur Erstellung von [Personas](../7_Evaluation/7_Daten.md) sind im
 Abschnitt Evaluation des Lernraum-Toolkits verfügbar.
 
-## 6.2.3 Service Location Planner
+## 6.2.3 Service Location Planner {#_6.2.3}
 
 Der Service Location Planner ist ein einfaches Werkzeug, um zu planen,
 wo und wann Dienstleistungen angeboten werden - innerhalb eines
@@ -155,7 +155,7 @@ bearbeiten.
 
 <img src="./media/image3.png" style="width:2.75539in;height:1.69792in" alt="Example Service Location Planner" />
 
-## 6.2.4 Journey Map
+## 6.2.4 Journey Map {#_6.2.4}
 
 Eine Customer Journey Map ist eine visuelle Darstellung, die zeigt, wie
 ein Kunde oder Nutzer eine Dienstleistung im Laufe der Zeit erlebt.
@@ -215,7 +215,7 @@ bearbeiten.
 
  
 
-## 6.2.5 Servicekonzept (Blueprint)
+## 6.2.5 Servicekonzept (Blueprint) {#_6.2.5}
 
 Ein Servicekonzept (Blueprint = „Blaupause“) ist ein operatives
 Planungsinstrument für die Bereitstellung eines Dienstes, in dem die
