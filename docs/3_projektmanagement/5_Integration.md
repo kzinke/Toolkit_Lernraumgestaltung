@@ -142,9 +142,7 @@ Tabellenblätter ein ganzheitliches Bild der Kosten über den Lebenszyklus
 des Projektes, um eine bessere Grundlage für Planung und Entscheidungen
 zu liefern.
 
-[Integrated
-Budgeting-Tool](https://learningspacetoolkit.org/wp-content/uploads/IntegratedBudgetingTool.xlsx) -
-EXCEL - Tabelle
+[Download Integrated Budgeting Tool (Excel)](/media/tools/DE_Integrated_Budgeting_Tool.xlsx){: .btn .btn-purple .fs-5 .mr-4}
 
 ### 3.5.3 Integrationsplan (Blueprint)
 
@@ -171,9 +169,7 @@ nachzuprüfen, ob das Design und der Betrieb des Raums mit den
 beabsichtigten Zielen übereinstimmen, und zu den Aktivitäten der
 Bedarfsanalyse zurückkehren.
 
-[Integration Blueprint
-Example](https://learningspacetoolkit.org/wp-content/uploads/Integration-Blueprint-Example.pdf)
-– Beispiel PDF zum Herunterladen
+[Download Beispiel Integration Blueprint (docx)](/media/tools/DE_Integration_Blueptrint_Beispiel.docx){: .btn .btn-purple .fs-5 .mr-4}
 
 [Integration Blueprint
 Template](https://docs.google.com/document/d/19Ov6jcJ1ZpQJB_yvaEFDGixFeLQj1TbgdgD50oambg0/edit)
