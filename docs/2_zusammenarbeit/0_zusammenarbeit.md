@@ -9,12 +9,12 @@ permalink: /docs/2_zusammenarbeit
 
 # 2. Partnerschaftliche Zusammenarbeit
 
-![Meeting](/images/meeting.jpg)
+![Meeting](/images/meeting.jpg) [^1]
 
 
 **In Kürze**
 
--   wir[^1] zeigen auf, dass es bei Lernraumprojekten notwendig ist
+-   wir zeigen auf, dass es bei Lernraumprojekten notwendig ist
     schon relativ früh eine große Breite an Akteuren einzubeziehen
 
 -   wir diskutieren ein Modell für die Art der Beteiligung, die ein
@@ -61,4 +61,4 @@ Vorschläge im Einzelnen:
     treffen.
 
 ---
-[^1] [Meeting Vektor-Grafik von Vecteezy]<https://de.vecteezy.com/gratis-vektor/meeting>
+[^1]: Meeting Vektor-Grafik von [Vecteezy](https://de.vecteezy.com/gratis-vektor/meeting)
