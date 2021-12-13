@@ -46,7 +46,7 @@ bessere Raumnutzung ist. Es muss ein Gleichgewicht erreicht werden. Eine
 steigende Nutzung kann sich negativ auf die Erfahrungen der Studenten
 auswirken, und dies wird anhand eines Kontinuums veranschaulicht.
 
-![Pfeil Kontinuum](/images/Pfeil_Kontinuum.png)
+![Pfeil Kontinuum](/media/images/Pfeil_Kontinuum.png)
 
 Die Auslastungszahlen von Loughborough sind immer konstant bei etwa
 33-35%, was in den oberen 15% des Sektors liegt, aber Caroline ist der
