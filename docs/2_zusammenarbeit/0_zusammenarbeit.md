@@ -9,11 +9,7 @@ permalink: /docs/2_zusammenarbeit
 
 # 2. Partnerschaftliche Zusammenarbeit
 
-<img src="https://github.com/kzinke/Toolkit_Lernraumgestaltung/blob/f5b32673b9a68f096b430c468dfaffc5f8779e1a/docs/2_zusammenarbeit/images/meeting.jpg" width=40% height=40%> 
-			
-[^1] 
-
-![Meeting](/images/meeting.jpg)
+![Meeting](/images/meeting.jpg)[^1]
 
 
 **In Kürze**
@@ -63,6 +59,6 @@ Vorschläge im Einzelnen:
     Stakeholder dabei zu unterstützen ihre jeweiligen Standpunkte zu
     verstehen und zusammen zu arbeiten um bessere Entscheidungen zu
     treffen.
-    
+
 ---
 [^1] <a href="https://de.vecteezy.com/gratis-vektor/meeting">Meeting Vektor von Vecteezy</a>
