@@ -2,15 +2,15 @@ name: Webpage to PDF
 on: [push]
 jobs:
     Webpage-to-Pdf:
-    runs-on: ubuntu-latest
-    steps: 
+      runs-on: ubuntu-latest
+      steps: 
         - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
         - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
         - run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
         - name: Convert Webpage to PDF
           uses: misaelnieto/web_to_pdf_action@v0.3.1
-            with:
-            webPageURL: https://lernraum-toolkit.github.io
-            outputFile: Toolkit.pdf
-            pdfOptions: '{"format": "A4"}'
+          with:
+                    webPageURL: https://lernraum-toolkit.github.io
+                    outputFile: Toolkit.pdf
+                    pdfOptions: '{"format": "A4"}'
         - run: echo "🍏 This job's status is ${{ job.status }}."
